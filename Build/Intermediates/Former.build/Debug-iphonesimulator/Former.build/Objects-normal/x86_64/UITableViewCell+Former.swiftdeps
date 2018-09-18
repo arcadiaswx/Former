@@ -1,0 +1,204 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "inputView"]
+- ["So15UITableViewCellC", "inputAccessoryView"]
+- ["So15UITableViewCellC", "canBecomeFirstResponder"]
+provides-dynamic-lookup:
+- "canBecomeFirstResponder"
+- "inputAccessoryView"
+- "inputView"
+depends-top-level:
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "SelectorDatePickerFormableRow"
+- !private "SelectorPickerFormableRow"
+- "UITableViewCell"
+- "UIView"
+- !private "||"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "canBecomeFirstResponder"]
+- !private ["So15CALayerDelegateP", "inputAccessoryView"]
+- !private ["So15CALayerDelegateP", "inputView"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "canBecomeFirstResponder"]
+- !private ["s7CVarArgP", "inputAccessoryView"]
+- !private ["s7CVarArgP", "inputView"]
+- !private ["s28CustomDebugStringConvertibleP", "canBecomeFirstResponder"]
+- !private ["s28CustomDebugStringConvertibleP", "inputAccessoryView"]
+- !private ["s28CustomDebugStringConvertibleP", "inputView"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "canBecomeFirstResponder"]
+- !private ["s23CustomStringConvertibleP", "inputAccessoryView"]
+- !private ["s23CustomStringConvertibleP", "inputView"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "canBecomeFirstResponder"]
+- !private ["SQ", "inputAccessoryView"]
+- !private ["SQ", "inputView"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["6Former11FormableRowP", "selectorAccessoryView"]
+- !private ["6Former11FormableRowP", "selectorDatePicker"]
+- !private ["6Former11FormableRowP", "selectorPickerView"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "canBecomeFirstResponder"]
+- !private ["SH", "inputAccessoryView"]
+- !private ["SH", "inputView"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "canBecomeFirstResponder"]
+- !private ["So8NSCodingP", "inputAccessoryView"]
+- !private ["So8NSCodingP", "inputView"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "SelectorDatePickerFormableRow"]
+- !private ["So8NSObjectC", "SelectorPickerFormableRow"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "canBecomeFirstResponder"]
+- ["So8NSObjectC", "inputAccessoryView"]
+- ["So8NSObjectC", "inputView"]
+- !private ["So8NSObjectP", "canBecomeFirstResponder"]
+- !private ["So8NSObjectP", "inputAccessoryView"]
+- !private ["So8NSObjectP", "inputView"]
+- !private ["6Former29SelectorDatePickerFormableRowP", "selectorAccessoryView"]
+- !private ["6Former29SelectorDatePickerFormableRowP", "selectorDatePicker"]
+- !private ["6Former25SelectorPickerFormableRowP", "selectorAccessoryView"]
+- !private ["6Former25SelectorPickerFormableRowP", "selectorPickerView"]
+- !private ["So29UIAccessibilityIdentificationP", "canBecomeFirstResponder"]
+- !private ["So29UIAccessibilityIdentificationP", "inputAccessoryView"]
+- !private ["So29UIAccessibilityIdentificationP", "inputView"]
+- !private ["So12UIAppearanceP", "canBecomeFirstResponder"]
+- !private ["So12UIAppearanceP", "inputAccessoryView"]
+- !private ["So12UIAppearanceP", "inputView"]
+- !private ["So21UIAppearanceContainerP", "canBecomeFirstResponder"]
+- !private ["So21UIAppearanceContainerP", "inputAccessoryView"]
+- !private ["So21UIAppearanceContainerP", "inputView"]
+- !private ["So17UICoordinateSpaceP", "canBecomeFirstResponder"]
+- !private ["So17UICoordinateSpaceP", "inputAccessoryView"]
+- !private ["So17UICoordinateSpaceP", "inputView"]
+- !private ["So13UIDynamicItemP", "canBecomeFirstResponder"]
+- !private ["So13UIDynamicItemP", "inputAccessoryView"]
+- !private ["So13UIDynamicItemP", "inputView"]
+- !private ["So18UIFocusEnvironmentP", "canBecomeFirstResponder"]
+- !private ["So18UIFocusEnvironmentP", "inputAccessoryView"]
+- !private ["So18UIFocusEnvironmentP", "inputView"]
+- !private ["So11UIFocusItemP", "canBecomeFirstResponder"]
+- !private ["So11UIFocusItemP", "inputAccessoryView"]
+- !private ["So11UIFocusItemP", "inputView"]
+- !private ["So20UIFocusItemContainerP", "canBecomeFirstResponder"]
+- !private ["So20UIFocusItemContainerP", "inputAccessoryView"]
+- !private ["So20UIFocusItemContainerP", "inputView"]
+- !private ["So30UIPasteConfigurationSupportingP", "canBecomeFirstResponder"]
+- !private ["So30UIPasteConfigurationSupportingP", "inputAccessoryView"]
+- !private ["So30UIPasteConfigurationSupportingP", "inputView"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "SelectorDatePickerFormableRow"]
+- !private ["So11UIResponderC", "SelectorPickerFormableRow"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "canBecomeFirstResponder"]
+- ["So11UIResponderC", "inputAccessoryView"]
+- ["So11UIResponderC", "inputView"]
+- !private ["So30UIResponderStandardEditActionsP", "canBecomeFirstResponder"]
+- !private ["So30UIResponderStandardEditActionsP", "inputAccessoryView"]
+- !private ["So30UIResponderStandardEditActionsP", "inputView"]
+- ["So15UITableViewCellC", "Bool"]
+- !private ["So15UITableViewCellC", "SelectorDatePickerFormableRow"]
+- !private ["So15UITableViewCellC", "SelectorPickerFormableRow"]
+- ["So15UITableViewCellC", "UIView"]
+- ["So15UITableViewCellC", "canBecomeFirstResponder"]
+- ["So15UITableViewCellC", "inputAccessoryView"]
+- ["So15UITableViewCellC", "inputView"]
+- !private ["So18UITraitEnvironmentP", "canBecomeFirstResponder"]
+- !private ["So18UITraitEnvironmentP", "inputAccessoryView"]
+- !private ["So18UITraitEnvironmentP", "inputView"]
+- !private ["So23UIUserActivityRestoringP", "canBecomeFirstResponder"]
+- !private ["So23UIUserActivityRestoringP", "inputAccessoryView"]
+- !private ["So23UIUserActivityRestoringP", "inputView"]
+- ["So6UIViewC", "Bool"]
+- !private ["So6UIViewC", "SelectorDatePickerFormableRow"]
+- !private ["So6UIViewC", "SelectorPickerFormableRow"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", "canBecomeFirstResponder"]
+- ["So6UIViewC", "inputAccessoryView"]
+- ["So6UIViewC", "inputView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "canBecomeFirstResponder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "inputAccessoryView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "inputView"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "canBecomeFirstResponder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inputAccessoryView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inputView"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "6Former11FormableRowP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "6Former29SelectorDatePickerFormableRowP"
+- !private "6Former25SelectorPickerFormableRowP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d341697d9de5668fff694e5494f9f5f9"

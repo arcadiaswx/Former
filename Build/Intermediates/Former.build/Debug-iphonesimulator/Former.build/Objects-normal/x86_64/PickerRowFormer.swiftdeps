@@ -1,0 +1,643 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PickerFormableRow"
+- "PickerItem"
+- "PickerRowFormer"
+provides-nominal:
+- "6Former17PickerFormableRowP"
+- "6Former10PickerItemC"
+- "6Former09PickerRowA0C"
+provides-member:
+- ["6Former17PickerFormableRowP", ""]
+- ["6Former10PickerItemC", ""]
+- ["6Former09PickerRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- !private "BooleanLiteralType"
+- "FloatLiteralType"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "Int"
+- "IntegerLiteralType"
+- "NSObject"
+- "Observer"
+- "PickerFormableRow"
+- "PickerItem"
+- "PickerRowFormer"
+- "String"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIPickerView"
+- "UIPickerViewDataSource"
+- "UIPickerViewDelegate"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["s13ArrayProtocolP", "title"]
+- !private ["s10ArraySliceV", "title"]
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "Int"]
+- ["6Former07BaseRowA0C", "Observer"]
+- ["6Former07BaseRowA0C", "PickerItem"]
+- ["6Former07BaseRowA0C", "S"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellInitialized"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "initialized"]
+- ["6Former07BaseRowA0C", "observer"]
+- ["6Former07BaseRowA0C", "observer.storage"]
+- ["6Former07BaseRowA0C", "onValueChanged"]
+- ["6Former07BaseRowA0C", "pickerItems"]
+- !private ["6Former07BaseRowA0C", "rowHeight"]
+- ["6Former07BaseRowA0C", "selectedRow"]
+- ["6Former07BaseRowA0C", "update"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["SK", "title"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "opacity"]
+- !private ["So15CALayerDelegateP", "dataSource"]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "formPickerView"]
+- !private ["So15CALayerDelegateP", "isUserInteractionEnabled"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "reloadAllComponents"]
+- !private ["So15CALayerDelegateP", "selectRow"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So13CAMediaTimingP", "opacity"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dataSource"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "formPickerView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isUserInteractionEnabled"]
+- !private ["s7CVarArgP", "layer"]
+- ["s7CVarArgP", "numberOfComponents"]
+- ["s7CVarArgP", "numberOfComponentsInPickerView"]
+- !private ["s7CVarArgP", "opacity"]
+- !private ["s7CVarArgP", "pickerRowFormer"]
+- ["s7CVarArgP", "pickerView"]
+- !private ["s7CVarArgP", "reloadAllComponents"]
+- !private ["s7CVarArgP", "selectRow"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "title"]
+- !private ["6Former16ConfigurableFormP", "Observer"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "observer"]
+- !private ["6Former16ConfigurableFormP", "onValueChanged"]
+- !private ["6Former16ConfigurableFormP", "pickerItems"]
+- !private ["6Former16ConfigurableFormP", "rowHeight"]
+- !private ["6Former16ConfigurableFormP", "selectedRow"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dataSource"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "formPickerView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isUserInteractionEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- ["s28CustomDebugStringConvertibleP", "numberOfComponents"]
+- ["s28CustomDebugStringConvertibleP", "numberOfComponentsInPickerView"]
+- !private ["s28CustomDebugStringConvertibleP", "opacity"]
+- !private ["s28CustomDebugStringConvertibleP", "pickerRowFormer"]
+- ["s28CustomDebugStringConvertibleP", "pickerView"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadAllComponents"]
+- !private ["s28CustomDebugStringConvertibleP", "selectRow"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "title"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dataSource"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "formPickerView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isUserInteractionEnabled"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- ["s23CustomStringConvertibleP", "numberOfComponents"]
+- ["s23CustomStringConvertibleP", "numberOfComponentsInPickerView"]
+- !private ["s23CustomStringConvertibleP", "opacity"]
+- !private ["s23CustomStringConvertibleP", "pickerRowFormer"]
+- ["s23CustomStringConvertibleP", "pickerView"]
+- !private ["s23CustomStringConvertibleP", "reloadAllComponents"]
+- !private ["s23CustomStringConvertibleP", "selectRow"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "count"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "count"]
+- !private ["SE", "subscript"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "count"]
+- !private ["SQ", "dataSource"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "formPickerView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isUserInteractionEnabled"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "none"]
+- ["SQ", "numberOfComponents"]
+- ["SQ", "numberOfComponentsInPickerView"]
+- !private ["SQ", "opacity"]
+- !private ["SQ", "pickerRowFormer"]
+- ["SQ", "pickerView"]
+- !private ["SQ", "reloadAllComponents"]
+- !private ["SQ", "selectRow"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "title"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "title"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["6Former8FormableP", "Observer"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "observer"]
+- !private ["6Former8FormableP", "onValueChanged"]
+- !private ["6Former8FormableP", "pickerItems"]
+- !private ["6Former8FormableP", "rowHeight"]
+- !private ["6Former8FormableP", "selectedRow"]
+- ["6Former11FormableRowP", "UIPickerView"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formPickerView"]
+- !private ["6Former11FormableRowP", "selectionStyle"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "count"]
+- !private ["SH", "dataSource"]
+- !private ["SH", "delegate"]
+- !private ["SH", "formPickerView"]
+- !private ["SH", "init"]
+- !private ["SH", "isUserInteractionEnabled"]
+- !private ["SH", "layer"]
+- !private ["SH", "none"]
+- ["SH", "numberOfComponents"]
+- ["SH", "numberOfComponentsInPickerView"]
+- !private ["SH", "opacity"]
+- !private ["SH", "pickerRowFormer"]
+- ["SH", "pickerView"]
+- !private ["SH", "reloadAllComponents"]
+- !private ["SH", "selectRow"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "subscript"]
+- !private ["SH", "title"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["SM", "title"]
+- !private ["So8NSCodingP", "dataSource"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "formPickerView"]
+- !private ["So8NSCodingP", "isUserInteractionEnabled"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "opacity"]
+- !private ["So8NSCodingP", "reloadAllComponents"]
+- !private ["So8NSCodingP", "selectRow"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- ["So8NSObjectC", "InstantiateType"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "PickerRowFormer"]
+- ["So8NSObjectC", "S"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "T"]
+- ["So8NSObjectC", "UIPickerView"]
+- !private ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "dataSource"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "formPickerView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isUserInteractionEnabled"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "numberOfComponents"]
+- ["So8NSObjectC", "numberOfComponentsInPickerView"]
+- !private ["So8NSObjectC", "opacity"]
+- ["So8NSObjectC", "pickerRowFormer"]
+- ["So8NSObjectC", "pickerView"]
+- !private ["So8NSObjectC", "reloadAllComponents"]
+- !private ["So8NSObjectC", "selectRow"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "dataSource"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "formPickerView"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isUserInteractionEnabled"]
+- !private ["So8NSObjectP", "layer"]
+- ["So8NSObjectP", "numberOfComponents"]
+- ["So8NSObjectP", "numberOfComponentsInPickerView"]
+- !private ["So8NSObjectP", "opacity"]
+- !private ["So8NSObjectP", "pickerRowFormer"]
+- ["So8NSObjectP", "pickerView"]
+- !private ["So8NSObjectP", "reloadAllComponents"]
+- !private ["So8NSObjectP", "selectRow"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So14NSSecureCodingP", "opacity"]
+- ["6Former17PickerFormableRowP", "UIPickerView"]
+- ["6Former17PickerFormableRowP", "formPickerView"]
+- !private ["6Former17PickerFormableRowP", "selectionStyle"]
+- ["6Former10PickerItemC", "S"]
+- ["6Former10PickerItemC", "String"]
+- ["6Former10PickerItemC", "init"]
+- ["6Former10PickerItemC", "title"]
+- ["6Former10PickerItemC", "value"]
+- ["6Former09PickerRowA0C", "Former"]
+- ["6Former09PickerRowA0C", "Int"]
+- ["6Former09PickerRowA0C", "Observer"]
+- ["6Former09PickerRowA0C", "PickerItem"]
+- ["6Former09PickerRowA0C", "S"]
+- ["6Former09PickerRowA0C", "T"]
+- ["6Former09PickerRowA0C", "Void"]
+- !private ["6Former09PickerRowA0C", "cell"]
+- ["6Former09PickerRowA0C", "cellInitialized"]
+- ["6Former09PickerRowA0C", "deinit"]
+- !private ["6Former09PickerRowA0C", "enabled"]
+- ["6Former09PickerRowA0C", "init"]
+- ["6Former09PickerRowA0C", "initialized"]
+- !private ["6Former09PickerRowA0C", "observer"]
+- !private ["6Former09PickerRowA0C", "observer.storage"]
+- ["6Former09PickerRowA0C", "onValueChanged"]
+- ["6Former09PickerRowA0C", "pickerItems"]
+- !private ["6Former09PickerRowA0C", "rowHeight"]
+- ["6Former09PickerRowA0C", "selectedRow"]
+- ["6Former09PickerRowA0C", "update"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sk", "title"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["Sm", "title"]
+- !private ["SY", "none"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "Int"]
+- ["6Former03RowA0C", "Observer"]
+- ["6Former03RowA0C", "PickerItem"]
+- ["6Former03RowA0C", "S"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellInitialized"]
+- !private ["6Former03RowA0C", "enabled"]
+- ["6Former03RowA0C", "initialized"]
+- ["6Former03RowA0C", "observer"]
+- ["6Former03RowA0C", "observer.storage"]
+- ["6Former03RowA0C", "onValueChanged"]
+- ["6Former03RowA0C", "pickerItems"]
+- !private ["6Former03RowA0C", "rowHeight"]
+- ["6Former03RowA0C", "selectedRow"]
+- ["6Former03RowA0C", "update"]
+- !private ["6Former14SelectableFormP", "Observer"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "observer"]
+- !private ["6Former14SelectableFormP", "onValueChanged"]
+- !private ["6Former14SelectableFormP", "pickerItems"]
+- !private ["6Former14SelectableFormP", "rowHeight"]
+- !private ["6Former14SelectableFormP", "selectedRow"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["ST", "title"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "dataSource"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "formPickerView"]
+- !private ["So29UIAccessibilityIdentificationP", "isUserInteractionEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadAllComponents"]
+- !private ["So29UIAccessibilityIdentificationP", "selectRow"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "dataSource"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "formPickerView"]
+- !private ["So12UIAppearanceP", "isUserInteractionEnabled"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "reloadAllComponents"]
+- !private ["So12UIAppearanceP", "selectRow"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "dataSource"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "formPickerView"]
+- !private ["So21UIAppearanceContainerP", "isUserInteractionEnabled"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "reloadAllComponents"]
+- !private ["So21UIAppearanceContainerP", "selectRow"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "dataSource"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "formPickerView"]
+- !private ["So17UICoordinateSpaceP", "isUserInteractionEnabled"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "reloadAllComponents"]
+- !private ["So17UICoordinateSpaceP", "selectRow"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "dataSource"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "formPickerView"]
+- !private ["So13UIDynamicItemP", "isUserInteractionEnabled"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "reloadAllComponents"]
+- !private ["So13UIDynamicItemP", "selectRow"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "dataSource"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "formPickerView"]
+- !private ["So18UIFocusEnvironmentP", "isUserInteractionEnabled"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "reloadAllComponents"]
+- !private ["So18UIFocusEnvironmentP", "selectRow"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "dataSource"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "formPickerView"]
+- !private ["So11UIFocusItemP", "isUserInteractionEnabled"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "reloadAllComponents"]
+- !private ["So11UIFocusItemP", "selectRow"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "dataSource"]
+- !private ["So20UIFocusItemContainerP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "formPickerView"]
+- !private ["So20UIFocusItemContainerP", "isUserInteractionEnabled"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "reloadAllComponents"]
+- !private ["So20UIFocusItemContainerP", "selectRow"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "formPickerView"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "dataSource"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "formPickerView"]
+- !private ["So30UIPasteConfigurationSupportingP", "isUserInteractionEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadAllComponents"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectRow"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So12UIPickerViewC", "dataSource"]
+- !private ["So12UIPickerViewC", "delegate"]
+- !private ["So12UIPickerViewC", "isUserInteractionEnabled"]
+- !private ["So12UIPickerViewC", "layer"]
+- !private ["So12UIPickerViewC", "reloadAllComponents"]
+- !private ["So12UIPickerViewC", "selectRow"]
+- !private ["So22UIPickerViewDataSourceP", ""]
+- !private ["So22UIPickerViewDataSourceP", "init"]
+- ["So22UIPickerViewDataSourceP", "numberOfComponents"]
+- ["So22UIPickerViewDataSourceP", "numberOfComponentsInPickerView"]
+- !private ["So22UIPickerViewDataSourceP", "pickerRowFormer"]
+- ["So22UIPickerViewDataSourceP", "pickerView"]
+- !private ["So20UIPickerViewDelegateP", ""]
+- !private ["So20UIPickerViewDelegateP", "init"]
+- ["So20UIPickerViewDelegateP", "numberOfComponents"]
+- ["So20UIPickerViewDelegateP", "numberOfComponentsInPickerView"]
+- !private ["So20UIPickerViewDelegateP", "pickerRowFormer"]
+- ["So20UIPickerViewDelegateP", "pickerView"]
+- !private ["So11UIResponderC", "dataSource"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "formPickerView"]
+- !private ["So11UIResponderC", "isUserInteractionEnabled"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "reloadAllComponents"]
+- !private ["So11UIResponderC", "selectRow"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "dataSource"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "formPickerView"]
+- !private ["So30UIResponderStandardEditActionsP", "isUserInteractionEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadAllComponents"]
+- !private ["So30UIResponderStandardEditActionsP", "selectRow"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So15UITableViewCellC", "formPickerView"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So18UITraitEnvironmentP", "dataSource"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "formPickerView"]
+- !private ["So18UITraitEnvironmentP", "isUserInteractionEnabled"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "reloadAllComponents"]
+- !private ["So18UITraitEnvironmentP", "selectRow"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "dataSource"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "formPickerView"]
+- !private ["So23UIUserActivityRestoringP", "isUserInteractionEnabled"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "reloadAllComponents"]
+- !private ["So23UIUserActivityRestoringP", "selectRow"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So6UIViewC", "dataSource"]
+- !private ["So6UIViewC", "delegate"]
+- !private ["So6UIViewC", "formPickerView"]
+- !private ["So6UIViewC", "isUserInteractionEnabled"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "reloadAllComponents"]
+- !private ["So6UIViewC", "selectRow"]
+- !private ["So6UIViewC", "selectionStyle"]
+- !private ["6Former13UpdatableFormP", "Observer"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "observer"]
+- !private ["6Former13UpdatableFormP", "onValueChanged"]
+- !private ["6Former13UpdatableFormP", "pickerItems"]
+- !private ["6Former13UpdatableFormP", "rowHeight"]
+- !private ["6Former13UpdatableFormP", "selectedRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dataSource"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formPickerView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isUserInteractionEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "reloadAllComponents"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "title"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formPickerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isUserInteractionEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfComponents"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfComponentsInPickerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "opacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickerRowFormer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "pickerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadAllComponents"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "s10ArraySliceV"
+- "6Former07BaseRowA0C"
+- !private "SK"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- !private "Sl"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "6Former17PickerFormableRowP"
+- "6Former10PickerItemC"
+- "6Former09PickerRowA0C"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "ST"
+- !private "s12StaticStringV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So12UIPickerViewC"
+- "So22UIPickerViewDataSourceP"
+- "So20UIPickerViewDelegateP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d3f6a56ce8ac5fd7f4ce006140cc7272"

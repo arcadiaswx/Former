@@ -1,0 +1,391 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LabelFormableRow"
+- "LabelRowFormer"
+provides-nominal:
+- "6Former16LabelFormableRowP"
+- "6Former08LabelRowA0C"
+provides-member:
+- ["6Former16LabelFormableRowP", ""]
+- ["6Former08LabelRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "LabelFormableRow"
+- "LabelRowFormer"
+- "String"
+- "UIColor"
+- "UILabel"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "String"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIColor"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- !private ["6Former07BaseRowA0C", "cell"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "subText"]
+- ["6Former07BaseRowA0C", "subTextColor"]
+- ["6Former07BaseRowA0C", "subTextDisabledColor"]
+- ["6Former07BaseRowA0C", "text"]
+- ["6Former07BaseRowA0C", "textColor"]
+- ["6Former07BaseRowA0C", "textDisabledColor"]
+- ["6Former07BaseRowA0C", "update"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "formSubTextLabel"]
+- !private ["So15CALayerDelegateP", "formTextLabel"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "formSubTextLabel"]
+- !private ["s7CVarArgP", "formTextLabel"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textColor"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "subText"]
+- !private ["6Former16ConfigurableFormP", "subTextColor"]
+- !private ["6Former16ConfigurableFormP", "subTextDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "text"]
+- !private ["6Former16ConfigurableFormP", "textColor"]
+- !private ["6Former16ConfigurableFormP", "textDisabledColor"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "formSubTextLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "formTextLabel"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "black"]
+- ["s17CustomReflectableP", "lightGray"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "formSubTextLabel"]
+- !private ["s23CustomStringConvertibleP", "formTextLabel"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "black"]
+- ["Se", "lightGray"]
+- !private ["Se", "map"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "black"]
+- ["SE", "lightGray"]
+- !private ["SE", "map"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "black"]
+- !private ["SQ", "formSubTextLabel"]
+- !private ["SQ", "formTextLabel"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "map"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textColor"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- ["s23ExpressibleByNilLiteralP", "lightGray"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "subText"]
+- !private ["6Former8FormableP", "subTextColor"]
+- !private ["6Former8FormableP", "subTextDisabledColor"]
+- !private ["6Former8FormableP", "text"]
+- !private ["6Former8FormableP", "textColor"]
+- !private ["6Former8FormableP", "textDisabledColor"]
+- ["6Former11FormableRowP", "UILabel"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formSubTextLabel"]
+- !private ["6Former11FormableRowP", "formTextLabel"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "black"]
+- !private ["SH", "formSubTextLabel"]
+- !private ["SH", "formTextLabel"]
+- ["SH", "lightGray"]
+- !private ["SH", "map"]
+- !private ["SH", "text"]
+- !private ["SH", "textColor"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- ["6Former16LabelFormableRowP", "UILabel"]
+- ["6Former16LabelFormableRowP", "formSubTextLabel"]
+- ["6Former16LabelFormableRowP", "formTextLabel"]
+- ["6Former08LabelRowA0C", "Former"]
+- ["6Former08LabelRowA0C", "String"]
+- ["6Former08LabelRowA0C", "T"]
+- ["6Former08LabelRowA0C", "UIColor"]
+- ["6Former08LabelRowA0C", "Void"]
+- !private ["6Former08LabelRowA0C", "cell"]
+- ["6Former08LabelRowA0C", "deinit"]
+- !private ["6Former08LabelRowA0C", "enabled"]
+- ["6Former08LabelRowA0C", "init"]
+- ["6Former08LabelRowA0C", "subText"]
+- !private ["6Former08LabelRowA0C", "subTextColor"]
+- ["6Former08LabelRowA0C", "subTextDisabledColor"]
+- ["6Former08LabelRowA0C", "text"]
+- !private ["6Former08LabelRowA0C", "textColor"]
+- ["6Former08LabelRowA0C", "textDisabledColor"]
+- ["6Former08LabelRowA0C", "update"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "formSubTextLabel"]
+- !private ["So8NSCodingP", "formTextLabel"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "formSubTextLabel"]
+- !private ["So8NSObjectC", "formTextLabel"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textColor"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "formSubTextLabel"]
+- !private ["So8NSObjectP", "formTextLabel"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["Sq", "black"]
+- ["Sq", "lightGray"]
+- !private ["Sq", "map"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "String"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIColor"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cell"]
+- !private ["6Former03RowA0C", "enabled"]
+- ["6Former03RowA0C", "subText"]
+- ["6Former03RowA0C", "subTextColor"]
+- ["6Former03RowA0C", "subTextDisabledColor"]
+- ["6Former03RowA0C", "text"]
+- ["6Former03RowA0C", "textColor"]
+- ["6Former03RowA0C", "textDisabledColor"]
+- ["6Former03RowA0C", "update"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "subText"]
+- !private ["6Former14SelectableFormP", "subTextColor"]
+- !private ["6Former14SelectableFormP", "subTextDisabledColor"]
+- !private ["6Former14SelectableFormP", "text"]
+- !private ["6Former14SelectableFormP", "textColor"]
+- !private ["6Former14SelectableFormP", "textDisabledColor"]
+- !private ["So29UIAccessibilityIdentificationP", "formSubTextLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "formTextLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So12UIAppearanceP", "formSubTextLabel"]
+- !private ["So12UIAppearanceP", "formTextLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "formSubTextLabel"]
+- !private ["So21UIAppearanceContainerP", "formTextLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "formSubTextLabel"]
+- !private ["So17UICoordinateSpaceP", "formTextLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So13UIDynamicItemP", "formSubTextLabel"]
+- !private ["So13UIDynamicItemP", "formTextLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "formSubTextLabel"]
+- !private ["So18UIFocusEnvironmentP", "formTextLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So11UIFocusItemP", "formSubTextLabel"]
+- !private ["So11UIFocusItemP", "formTextLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "formSubTextLabel"]
+- !private ["So20UIFocusItemContainerP", "formTextLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So27UIGestureRecognizerDelegateP", "formSubTextLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "formTextLabel"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "formSubTextLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTextLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So11UIResponderC", "formSubTextLabel"]
+- !private ["So11UIResponderC", "formTextLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "formSubTextLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "formTextLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So15UITableViewCellC", "formSubTextLabel"]
+- !private ["So15UITableViewCellC", "formTextLabel"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So18UITraitEnvironmentP", "formSubTextLabel"]
+- !private ["So18UITraitEnvironmentP", "formTextLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "formSubTextLabel"]
+- !private ["So23UIUserActivityRestoringP", "formTextLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So6UIViewC", "formSubTextLabel"]
+- !private ["So6UIViewC", "formTextLabel"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textColor"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "subText"]
+- !private ["6Former13UpdatableFormP", "subTextColor"]
+- !private ["6Former13UpdatableFormP", "subTextDisabledColor"]
+- !private ["6Former13UpdatableFormP", "text"]
+- !private ["6Former13UpdatableFormP", "textColor"]
+- !private ["6Former13UpdatableFormP", "textDisabledColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formSubTextLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTextLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formSubTextLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTextLabel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- ["s21_ObjectiveCBridgeableP", "lightGray"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- "6Former07BaseRowA0C"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- "6Former16LabelFormableRowP"
+- "6Former08LabelRowA0C"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "Sq"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c3c4f2a3fe8de0f5b03a081e9d2b48aa"

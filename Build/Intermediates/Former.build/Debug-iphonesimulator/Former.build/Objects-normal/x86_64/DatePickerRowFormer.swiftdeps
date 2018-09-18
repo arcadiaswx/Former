@@ -1,0 +1,463 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DatePickerFormableRow"
+- "DatePickerRowFormer"
+provides-nominal:
+- "6Former21DatePickerFormableRowP"
+- "6Former013DatePickerRowA0C"
+provides-member:
+- ["6Former21DatePickerFormableRowP", ""]
+- ["6Former013DatePickerRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- !private "BooleanLiteralType"
+- "Date"
+- "DatePickerFormableRow"
+- "DatePickerRowFormer"
+- !private "FloatLiteralType"
+- "Formable"
+- "FormableRow"
+- "Former"
+- !private "IntegerLiteralType"
+- "TernaryPrecedence"
+- "UIDatePicker"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- ["6Former07BaseRowA0C", "Date"]
+- !private ["6Former07BaseRowA0C", "DatePickerRowFormer"]
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIDatePicker"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellInitialized"]
+- ["6Former07BaseRowA0C", "date"]
+- ["6Former07BaseRowA0C", "dateChanged"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "initialized"]
+- ["6Former07BaseRowA0C", "onDateChanged"]
+- !private ["6Former07BaseRowA0C", "rowHeight"]
+- ["6Former07BaseRowA0C", "update"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "opacity"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "date"]
+- !private ["So15CALayerDelegateP", "formDatePicker"]
+- !private ["So15CALayerDelegateP", "isUserInteractionEnabled"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "setDate"]
+- !private ["So13CAMediaTimingP", "opacity"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "date"]
+- !private ["s7CVarArgP", "formDatePicker"]
+- !private ["s7CVarArgP", "isUserInteractionEnabled"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "opacity"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "setDate"]
+- ["SL", "init"]
+- ["6Former16ConfigurableFormP", "Date"]
+- !private ["6Former16ConfigurableFormP", "DatePickerRowFormer"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "date"]
+- !private ["6Former16ConfigurableFormP", "dateChanged"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "onDateChanged"]
+- !private ["6Former16ConfigurableFormP", "rowHeight"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "formDatePicker"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isUserInteractionEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "opacity"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "setDate"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "formDatePicker"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isUserInteractionEnabled"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "opacity"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "setDate"]
+- ["10Foundation4DateV", "init"]
+- ["6Former21DatePickerFormableRowP", "UIDatePicker"]
+- ["6Former21DatePickerFormableRowP", "formDatePicker"]
+- !private ["6Former21DatePickerFormableRowP", "selectionStyle"]
+- ["6Former013DatePickerRowA0C", "Date"]
+- !private ["6Former013DatePickerRowA0C", "DatePickerRowFormer"]
+- ["6Former013DatePickerRowA0C", "Former"]
+- ["6Former013DatePickerRowA0C", "T"]
+- ["6Former013DatePickerRowA0C", "UIDatePicker"]
+- ["6Former013DatePickerRowA0C", "Void"]
+- !private ["6Former013DatePickerRowA0C", "cell"]
+- ["6Former013DatePickerRowA0C", "cellInitialized"]
+- ["6Former013DatePickerRowA0C", "date"]
+- !private ["6Former013DatePickerRowA0C", "dateChanged"]
+- ["6Former013DatePickerRowA0C", "deinit"]
+- !private ["6Former013DatePickerRowA0C", "enabled"]
+- ["6Former013DatePickerRowA0C", "init"]
+- ["6Former013DatePickerRowA0C", "initialized"]
+- ["6Former013DatePickerRowA0C", "onDateChanged"]
+- !private ["6Former013DatePickerRowA0C", "rowHeight"]
+- ["6Former013DatePickerRowA0C", "update"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- ["SE", "init"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "date"]
+- !private ["SQ", "formDatePicker"]
+- ["SQ", "init"]
+- !private ["SQ", "isUserInteractionEnabled"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "none"]
+- !private ["SQ", "opacity"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "setDate"]
+- !private ["SQ", "valueChanged"]
+- !private ["So15UIControlEventsV", "valueChanged"]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["6Former8FormableP", "Date"]
+- !private ["6Former8FormableP", "DatePickerRowFormer"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "date"]
+- !private ["6Former8FormableP", "dateChanged"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "onDateChanged"]
+- !private ["6Former8FormableP", "rowHeight"]
+- ["6Former11FormableRowP", "UIDatePicker"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formDatePicker"]
+- !private ["6Former11FormableRowP", "selectionStyle"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addTarget"]
+- !private ["SH", "date"]
+- !private ["SH", "formDatePicker"]
+- ["SH", "init"]
+- !private ["SH", "isUserInteractionEnabled"]
+- !private ["SH", "layer"]
+- !private ["SH", "none"]
+- !private ["SH", "opacity"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "setDate"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "date"]
+- !private ["So8NSCodingP", "formDatePicker"]
+- !private ["So8NSCodingP", "isUserInteractionEnabled"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "opacity"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "setDate"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "date"]
+- !private ["So8NSObjectC", "formDatePicker"]
+- !private ["So8NSObjectC", "isUserInteractionEnabled"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "opacity"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- !private ["So8NSObjectC", "setDate"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "date"]
+- !private ["So8NSObjectP", "formDatePicker"]
+- !private ["So8NSObjectP", "isUserInteractionEnabled"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "opacity"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "setDate"]
+- !private ["So14NSSecureCodingP", "opacity"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["SY", "none"]
+- !private ["SY", "valueChanged"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["6Former03RowA0C", "Date"]
+- !private ["6Former03RowA0C", "DatePickerRowFormer"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIDatePicker"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellInitialized"]
+- ["6Former03RowA0C", "date"]
+- ["6Former03RowA0C", "dateChanged"]
+- !private ["6Former03RowA0C", "enabled"]
+- ["6Former03RowA0C", "initialized"]
+- ["6Former03RowA0C", "onDateChanged"]
+- !private ["6Former03RowA0C", "rowHeight"]
+- ["6Former03RowA0C", "update"]
+- ["6Former14SelectableFormP", "Date"]
+- !private ["6Former14SelectableFormP", "DatePickerRowFormer"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "date"]
+- !private ["6Former14SelectableFormP", "dateChanged"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "onDateChanged"]
+- !private ["6Former14SelectableFormP", "rowHeight"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "date"]
+- !private ["So29UIAccessibilityIdentificationP", "formDatePicker"]
+- !private ["So29UIAccessibilityIdentificationP", "isUserInteractionEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "setDate"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "date"]
+- !private ["So12UIAppearanceP", "formDatePicker"]
+- !private ["So12UIAppearanceP", "isUserInteractionEnabled"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "setDate"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "date"]
+- !private ["So21UIAppearanceContainerP", "formDatePicker"]
+- !private ["So21UIAppearanceContainerP", "isUserInteractionEnabled"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "setDate"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "date"]
+- !private ["So9UIControlC", "isUserInteractionEnabled"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So9UIControlC", "setDate"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "date"]
+- !private ["So17UICoordinateSpaceP", "formDatePicker"]
+- !private ["So17UICoordinateSpaceP", "isUserInteractionEnabled"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "setDate"]
+- !private ["So12UIDatePickerC", "addTarget"]
+- !private ["So12UIDatePickerC", "date"]
+- !private ["So12UIDatePickerC", "isUserInteractionEnabled"]
+- !private ["So12UIDatePickerC", "layer"]
+- !private ["So12UIDatePickerC", "setDate"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "date"]
+- !private ["So13UIDynamicItemP", "formDatePicker"]
+- !private ["So13UIDynamicItemP", "isUserInteractionEnabled"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "setDate"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "date"]
+- !private ["So18UIFocusEnvironmentP", "formDatePicker"]
+- !private ["So18UIFocusEnvironmentP", "isUserInteractionEnabled"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "setDate"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "date"]
+- !private ["So11UIFocusItemP", "formDatePicker"]
+- !private ["So11UIFocusItemP", "isUserInteractionEnabled"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "setDate"]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "date"]
+- !private ["So20UIFocusItemContainerP", "formDatePicker"]
+- !private ["So20UIFocusItemContainerP", "isUserInteractionEnabled"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "setDate"]
+- !private ["So27UIGestureRecognizerDelegateP", "formDatePicker"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "date"]
+- !private ["So30UIPasteConfigurationSupportingP", "formDatePicker"]
+- !private ["So30UIPasteConfigurationSupportingP", "isUserInteractionEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setDate"]
+- !private ["So11UIResponderC", "addTarget"]
+- !private ["So11UIResponderC", "date"]
+- !private ["So11UIResponderC", "formDatePicker"]
+- !private ["So11UIResponderC", "isUserInteractionEnabled"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- !private ["So11UIResponderC", "setDate"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "date"]
+- !private ["So30UIResponderStandardEditActionsP", "formDatePicker"]
+- !private ["So30UIResponderStandardEditActionsP", "isUserInteractionEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "setDate"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So15UITableViewCellC", "formDatePicker"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "date"]
+- !private ["So18UITraitEnvironmentP", "formDatePicker"]
+- !private ["So18UITraitEnvironmentP", "isUserInteractionEnabled"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "setDate"]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "date"]
+- !private ["So23UIUserActivityRestoringP", "formDatePicker"]
+- !private ["So23UIUserActivityRestoringP", "isUserInteractionEnabled"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "setDate"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "date"]
+- !private ["So6UIViewC", "formDatePicker"]
+- !private ["So6UIViewC", "isUserInteractionEnabled"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "selectionStyle"]
+- !private ["So6UIViewC", "setDate"]
+- ["6Former13UpdatableFormP", "Date"]
+- !private ["6Former13UpdatableFormP", "DatePickerRowFormer"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "date"]
+- !private ["6Former13UpdatableFormP", "dateChanged"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "onDateChanged"]
+- !private ["6Former13UpdatableFormP", "rowHeight"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "date"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formDatePicker"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isUserInteractionEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setDate"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formDatePicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isUserInteractionEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "opacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setDate"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "6Former07BaseRowA0C"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "SL"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "6Former21DatePickerFormableRowP"
+- "6Former013DatePickerRowA0C"
+- "Se"
+- "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So12UIDatePickerC"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a2345489ffd3344029d3981d62dc656d"

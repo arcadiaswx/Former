@@ -85,7 +85,7 @@ public final class Former: NSObject {
     public subscript(range: ClosedRange<Int>) -> [SectionFormer] {
         return Array<SectionFormer>(sectionFormers[range])
     }
-
+/*
     public subscript(range: CountableRange<Int>) -> [SectionFormer] {
         return Array<SectionFormer>(sectionFormers[range])
     }
@@ -93,7 +93,7 @@ public final class Former: NSObject {
     public subscript(range: CountableClosedRange<Int>) -> [SectionFormer] {
         return Array<SectionFormer>(sectionFormers[range])
     }
-
+*/
     /// To find RowFormer from indexPath.
     public func rowFormer(indexPath: IndexPath) -> RowFormer {
         return self[indexPath.section][indexPath.row]

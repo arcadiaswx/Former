@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/itechplushd1/projects/ios/Former/Build/Products/Debug-iphonesimulator/Former.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Former-Swift.h",
+          'external-contents': "/Volumes/itechplushd1/projects/ios/Former/Build/Products/Debug-iphonesimulator/Former.framework/Headers/Former-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Former.h",
+          'external-contents': "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/itechplushd1/projects/ios/Former/Build/Products/Debug-iphonesimulator/Former.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

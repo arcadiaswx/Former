@@ -1,0 +1,454 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CheckFormableRow"
+- "CheckRowFormer"
+provides-nominal:
+- "6Former16CheckFormableRowP"
+- "6Former08CheckRowA0C"
+provides-member:
+- ["6Former16CheckFormableRowP", ""]
+- ["6Former08CheckRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- "Bool"
+- "BooleanLiteralType"
+- "CheckFormableRow"
+- "CheckRowFormer"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "IndexPath"
+- "TernaryPrecedence"
+- "UIColor"
+- "UILabel"
+- "UITableViewCell"
+- "UIView"
+- "Void"
+depends-member:
+- !private ["So28UITableViewCellAccessoryTypeV", "checkmark"]
+- !private ["So28UITableViewCellAccessoryTypeV", "none"]
+- ["6Former07BaseRowA0C", "Bool"]
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "IndexPath"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIColor"]
+- ["6Former07BaseRowA0C", "UIView"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellSelected"]
+- ["6Former07BaseRowA0C", "checked"]
+- ["6Former07BaseRowA0C", "customCheckView"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- !private ["6Former07BaseRowA0C", "former"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "onCheckChanged"]
+- ["6Former07BaseRowA0C", "titleColor"]
+- ["6Former07BaseRowA0C", "titleDisabledColor"]
+- ["6Former07BaseRowA0C", "update"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "accessoryType"]
+- !private ["So15CALayerDelegateP", "accessoryView"]
+- !private ["So15CALayerDelegateP", "formTitleLabel"]
+- !private ["So15CALayerDelegateP", "isHidden"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "accessoryType"]
+- !private ["s7CVarArgP", "accessoryView"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "deselect"]
+- !private ["s7CVarArgP", "formTitleLabel"]
+- !private ["s7CVarArgP", "isHidden"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "textColor"]
+- ["6Former16CheckFormableRowP", "UILabel"]
+- !private ["6Former16CheckFormableRowP", "accessoryType"]
+- !private ["6Former16CheckFormableRowP", "accessoryView"]
+- ["6Former16CheckFormableRowP", "formTitleLabel"]
+- ["6Former08CheckRowA0C", "Bool"]
+- ["6Former08CheckRowA0C", "Former"]
+- ["6Former08CheckRowA0C", "IndexPath"]
+- ["6Former08CheckRowA0C", "T"]
+- ["6Former08CheckRowA0C", "UIColor"]
+- ["6Former08CheckRowA0C", "UIView"]
+- ["6Former08CheckRowA0C", "Void"]
+- !private ["6Former08CheckRowA0C", "cell"]
+- ["6Former08CheckRowA0C", "cellSelected"]
+- ["6Former08CheckRowA0C", "checked"]
+- ["6Former08CheckRowA0C", "customCheckView"]
+- ["6Former08CheckRowA0C", "deinit"]
+- !private ["6Former08CheckRowA0C", "enabled"]
+- !private ["6Former08CheckRowA0C", "former"]
+- ["6Former08CheckRowA0C", "init"]
+- ["6Former08CheckRowA0C", "onCheckChanged"]
+- !private ["6Former08CheckRowA0C", "titleColor"]
+- ["6Former08CheckRowA0C", "titleDisabledColor"]
+- ["6Former08CheckRowA0C", "update"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "checked"]
+- !private ["6Former16ConfigurableFormP", "customCheckView"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "former"]
+- !private ["6Former16ConfigurableFormP", "onCheckChanged"]
+- !private ["6Former16ConfigurableFormP", "titleColor"]
+- !private ["6Former16ConfigurableFormP", "titleDisabledColor"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "accessoryType"]
+- !private ["s28CustomDebugStringConvertibleP", "accessoryView"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "deselect"]
+- !private ["s28CustomDebugStringConvertibleP", "formTitleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "isHidden"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "black"]
+- ["s17CustomReflectableP", "lightGray"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "accessoryType"]
+- !private ["s23CustomStringConvertibleP", "accessoryView"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "deselect"]
+- !private ["s23CustomStringConvertibleP", "formTitleLabel"]
+- !private ["s23CustomStringConvertibleP", "isHidden"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "black"]
+- ["Se", "lightGray"]
+- !private ["Se", "map"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "black"]
+- ["SE", "lightGray"]
+- !private ["SE", "map"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "accessoryType"]
+- !private ["SQ", "accessoryView"]
+- !private ["SQ", "black"]
+- !private ["SQ", "checkmark"]
+- !private ["SQ", "deselect"]
+- !private ["SQ", "formTitleLabel"]
+- !private ["SQ", "isHidden"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "map"]
+- !private ["SQ", "none"]
+- !private ["SQ", "textColor"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- ["s23ExpressibleByNilLiteralP", "lightGray"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "checked"]
+- !private ["6Former8FormableP", "customCheckView"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "former"]
+- !private ["6Former8FormableP", "onCheckChanged"]
+- !private ["6Former8FormableP", "titleColor"]
+- !private ["6Former8FormableP", "titleDisabledColor"]
+- ["6Former11FormableRowP", "UILabel"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "accessoryType"]
+- !private ["6Former11FormableRowP", "accessoryView"]
+- !private ["6Former11FormableRowP", "formTitleLabel"]
+- ["6FormerAAC", "InstantiateType"]
+- !private ["6FormerAAC", "deselect"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "accessoryType"]
+- !private ["SH", "accessoryView"]
+- !private ["SH", "black"]
+- !private ["SH", "checkmark"]
+- !private ["SH", "deselect"]
+- !private ["SH", "formTitleLabel"]
+- !private ["SH", "isHidden"]
+- ["SH", "lightGray"]
+- !private ["SH", "map"]
+- !private ["SH", "none"]
+- !private ["SH", "textColor"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "accessoryType"]
+- !private ["So8NSCodingP", "accessoryView"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "formTitleLabel"]
+- !private ["So8NSCodingP", "isHidden"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "accessoryType"]
+- !private ["So8NSObjectC", "accessoryView"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "deselect"]
+- !private ["So8NSObjectC", "formTitleLabel"]
+- !private ["So8NSObjectC", "isHidden"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "textColor"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "accessoryType"]
+- !private ["So8NSObjectP", "accessoryView"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "deselect"]
+- !private ["So8NSObjectP", "formTitleLabel"]
+- !private ["So8NSObjectP", "isHidden"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["Sq", "black"]
+- ["Sq", "lightGray"]
+- !private ["Sq", "map"]
+- !private ["SY", "checkmark"]
+- !private ["SY", "none"]
+- ["6Former03RowA0C", "Bool"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "IndexPath"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIColor"]
+- ["6Former03RowA0C", "UIView"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellSelected"]
+- ["6Former03RowA0C", "checked"]
+- ["6Former03RowA0C", "customCheckView"]
+- !private ["6Former03RowA0C", "enabled"]
+- !private ["6Former03RowA0C", "former"]
+- ["6Former03RowA0C", "onCheckChanged"]
+- ["6Former03RowA0C", "titleColor"]
+- ["6Former03RowA0C", "titleDisabledColor"]
+- ["6Former03RowA0C", "update"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "checked"]
+- !private ["6Former14SelectableFormP", "customCheckView"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "former"]
+- !private ["6Former14SelectableFormP", "onCheckChanged"]
+- !private ["6Former14SelectableFormP", "titleColor"]
+- !private ["6Former14SelectableFormP", "titleDisabledColor"]
+- !private ["So29UIAccessibilityIdentificationP", "accessoryType"]
+- !private ["So29UIAccessibilityIdentificationP", "accessoryView"]
+- !private ["So29UIAccessibilityIdentificationP", "formTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "isHidden"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So12UIAppearanceP", "accessoryType"]
+- !private ["So12UIAppearanceP", "accessoryView"]
+- !private ["So12UIAppearanceP", "formTitleLabel"]
+- !private ["So12UIAppearanceP", "isHidden"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "accessoryType"]
+- !private ["So21UIAppearanceContainerP", "accessoryView"]
+- !private ["So21UIAppearanceContainerP", "formTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "isHidden"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "accessoryType"]
+- !private ["So17UICoordinateSpaceP", "accessoryView"]
+- !private ["So17UICoordinateSpaceP", "formTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "isHidden"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So13UIDynamicItemP", "accessoryType"]
+- !private ["So13UIDynamicItemP", "accessoryView"]
+- !private ["So13UIDynamicItemP", "formTitleLabel"]
+- !private ["So13UIDynamicItemP", "isHidden"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "accessoryType"]
+- !private ["So18UIFocusEnvironmentP", "accessoryView"]
+- !private ["So18UIFocusEnvironmentP", "formTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "isHidden"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So11UIFocusItemP", "accessoryType"]
+- !private ["So11UIFocusItemP", "accessoryView"]
+- !private ["So11UIFocusItemP", "formTitleLabel"]
+- !private ["So11UIFocusItemP", "isHidden"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "accessoryType"]
+- !private ["So20UIFocusItemContainerP", "accessoryView"]
+- !private ["So20UIFocusItemContainerP", "formTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "isHidden"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So27UIGestureRecognizerDelegateP", "accessoryType"]
+- !private ["So27UIGestureRecognizerDelegateP", "accessoryView"]
+- !private ["So27UIGestureRecognizerDelegateP", "formTitleLabel"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "accessoryType"]
+- !private ["So30UIPasteConfigurationSupportingP", "accessoryView"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "isHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So11UIResponderC", "accessoryType"]
+- !private ["So11UIResponderC", "accessoryView"]
+- !private ["So11UIResponderC", "formTitleLabel"]
+- !private ["So11UIResponderC", "isHidden"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "accessoryType"]
+- !private ["So30UIResponderStandardEditActionsP", "accessoryView"]
+- !private ["So30UIResponderStandardEditActionsP", "formTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "isHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So20UIScrollViewDelegateP", "deselect"]
+- !private ["So15UITableViewCellC", "accessoryType"]
+- !private ["So15UITableViewCellC", "accessoryView"]
+- !private ["So15UITableViewCellC", "formTitleLabel"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- !private ["So21UITableViewDataSourceP", "deselect"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So19UITableViewDelegateP", "deselect"]
+- !private ["So18UITraitEnvironmentP", "accessoryType"]
+- !private ["So18UITraitEnvironmentP", "accessoryView"]
+- !private ["So18UITraitEnvironmentP", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "isHidden"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "accessoryType"]
+- !private ["So23UIUserActivityRestoringP", "accessoryView"]
+- !private ["So23UIUserActivityRestoringP", "formTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "isHidden"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So6UIViewC", "accessoryType"]
+- !private ["So6UIViewC", "accessoryView"]
+- !private ["So6UIViewC", "formTitleLabel"]
+- !private ["So6UIViewC", "isHidden"]
+- !private ["So6UIViewC", "textColor"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "checked"]
+- !private ["6Former13UpdatableFormP", "customCheckView"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "former"]
+- !private ["6Former13UpdatableFormP", "onCheckChanged"]
+- !private ["6Former13UpdatableFormP", "titleColor"]
+- !private ["6Former13UpdatableFormP", "titleDisabledColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "accessoryType"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "accessoryView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTitleLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isHidden"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accessoryType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accessoryView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deselect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- ["s21_ObjectiveCBridgeableP", "lightGray"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- !private "So28UITableViewCellAccessoryTypeV"
+- "6Former07BaseRowA0C"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "6Former16CheckFormableRowP"
+- "6Former08CheckRowA0C"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "Sq"
+- !private "SY"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4ef1215c22a68cb86154bdd4c06c6252"

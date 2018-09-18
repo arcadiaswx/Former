@@ -1,0 +1,10 @@
+framework module Former {
+  umbrella header "Former.h"
+
+  export *
+  module * { export * }
+}
+
+module Former.__Swift {
+    exclude header "Former-Swift.h"
+}

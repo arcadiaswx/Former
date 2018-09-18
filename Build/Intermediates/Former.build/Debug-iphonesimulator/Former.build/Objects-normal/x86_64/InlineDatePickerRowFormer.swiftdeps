@@ -1,0 +1,683 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InlineDatePickerFormableRow"
+- "InlineDatePickerRowFormer"
+provides-nominal:
+- "6Former27InlineDatePickerFormableRowP"
+- "6Former019InlineDatePickerRowA0C"
+provides-member:
+- ["6Former27InlineDatePickerFormableRowP", ""]
+- ["6Former019InlineDatePickerRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- "Bool"
+- "CastingPrecedence"
+- "ConfigurableInlineForm"
+- "Date"
+- !private "DatePickerRowFormer"
+- "FormDatePickerCell"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "IndexPath"
+- "InlineDatePickerFormableRow"
+- "InlineDatePickerRowFormer"
+- "RowFormer"
+- "String"
+- !private "StringLiteralType"
+- "UIColor"
+- "UILabel"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- ["6Former07BaseRowA0C", "Bool"]
+- ["6Former07BaseRowA0C", "Date"]
+- !private ["6Former07BaseRowA0C", "DatePickerRowFormer"]
+- ["6Former07BaseRowA0C", "FormDatePickerCell"]
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "IndexPath"]
+- ["6Former07BaseRowA0C", "InlineCellType"]
+- ["6Former07BaseRowA0C", "RowFormer"]
+- ["6Former07BaseRowA0C", "String"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIColor"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- ["6Former07BaseRowA0C", "canBecomeEditing"]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellSelected"]
+- !private ["6Former07BaseRowA0C", "configure"]
+- ["6Former07BaseRowA0C", "date"]
+- ["6Former07BaseRowA0C", "dateChanged"]
+- ["6Former07BaseRowA0C", "displayDisabledColor"]
+- ["6Former07BaseRowA0C", "displayEditingColor"]
+- ["6Former07BaseRowA0C", "displayTextColor"]
+- ["6Former07BaseRowA0C", "displayTextFromDate"]
+- ["6Former07BaseRowA0C", "editingDidBegin"]
+- ["6Former07BaseRowA0C", "editingDidEnd"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- !private ["6Former07BaseRowA0C", "former"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "inlineRowFormer"]
+- !private ["6Former07BaseRowA0C", "isEditing"]
+- ["6Former07BaseRowA0C", "onDateChanged"]
+- ["6Former07BaseRowA0C", "onEditingBegin"]
+- ["6Former07BaseRowA0C", "onEditingEnded"]
+- ["6Former07BaseRowA0C", "titleColor"]
+- ["6Former07BaseRowA0C", "titleDisabledColor"]
+- ["6Former07BaseRowA0C", "titleEditingColor"]
+- ["6Former07BaseRowA0C", "update"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "formDisplayLabel"]
+- !private ["So15CALayerDelegateP", "formTitleLabel"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "deselect"]
+- !private ["s7CVarArgP", "formDisplayLabel"]
+- !private ["s7CVarArgP", "formTitleLabel"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textColor"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- ["SL", "init"]
+- !private ["SL", "init"]
+- ["6Former16ConfigurableFormP", "Date"]
+- !private ["6Former16ConfigurableFormP", "DatePickerRowFormer"]
+- ["6Former16ConfigurableFormP", "InlineCellType"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "configure"]
+- !private ["6Former16ConfigurableFormP", "date"]
+- !private ["6Former16ConfigurableFormP", "dateChanged"]
+- !private ["6Former16ConfigurableFormP", "displayDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "displayEditingColor"]
+- !private ["6Former16ConfigurableFormP", "displayTextColor"]
+- !private ["6Former16ConfigurableFormP", "displayTextFromDate"]
+- ["6Former16ConfigurableFormP", "editingDidBegin"]
+- ["6Former16ConfigurableFormP", "editingDidEnd"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "former"]
+- !private ["6Former16ConfigurableFormP", "init"]
+- ["6Former16ConfigurableFormP", "inlineRowFormer"]
+- !private ["6Former16ConfigurableFormP", "isEditing"]
+- !private ["6Former16ConfigurableFormP", "onDateChanged"]
+- !private ["6Former16ConfigurableFormP", "onEditingBegin"]
+- !private ["6Former16ConfigurableFormP", "onEditingEnded"]
+- !private ["6Former16ConfigurableFormP", "titleColor"]
+- !private ["6Former16ConfigurableFormP", "titleDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "titleEditingColor"]
+- !private ["6Former16ConfigurableFormP", "update"]
+- ["6Former22ConfigurableInlineFormP", "Date"]
+- !private ["6Former22ConfigurableInlineFormP", "DatePickerRowFormer"]
+- ["6Former22ConfigurableInlineFormP", "InlineCellType"]
+- ["6Former22ConfigurableInlineFormP", ""]
+- !private ["6Former22ConfigurableInlineFormP", "cell"]
+- !private ["6Former22ConfigurableInlineFormP", "date"]
+- !private ["6Former22ConfigurableInlineFormP", "dateChanged"]
+- !private ["6Former22ConfigurableInlineFormP", "displayDisabledColor"]
+- !private ["6Former22ConfigurableInlineFormP", "displayEditingColor"]
+- !private ["6Former22ConfigurableInlineFormP", "displayTextColor"]
+- !private ["6Former22ConfigurableInlineFormP", "displayTextFromDate"]
+- ["6Former22ConfigurableInlineFormP", "editingDidBegin"]
+- ["6Former22ConfigurableInlineFormP", "editingDidEnd"]
+- !private ["6Former22ConfigurableInlineFormP", "enabled"]
+- !private ["6Former22ConfigurableInlineFormP", "former"]
+- ["6Former22ConfigurableInlineFormP", "inlineRowFormer"]
+- !private ["6Former22ConfigurableInlineFormP", "isEditing"]
+- !private ["6Former22ConfigurableInlineFormP", "onDateChanged"]
+- !private ["6Former22ConfigurableInlineFormP", "onEditingBegin"]
+- !private ["6Former22ConfigurableInlineFormP", "onEditingEnded"]
+- !private ["6Former22ConfigurableInlineFormP", "titleColor"]
+- !private ["6Former22ConfigurableInlineFormP", "titleDisabledColor"]
+- !private ["6Former22ConfigurableInlineFormP", "titleEditingColor"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "deselect"]
+- !private ["s28CustomDebugStringConvertibleP", "formDisplayLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "formTitleLabel"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "black"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "lightGray"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "deselect"]
+- !private ["s23CustomStringConvertibleP", "formDisplayLabel"]
+- !private ["s23CustomStringConvertibleP", "formTitleLabel"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- ["10Foundation4DateV", "init"]
+- !private ["6Former013DatePickerRowA0C", "configure"]
+- !private ["6Former013DatePickerRowA0C", "date"]
+- !private ["6Former013DatePickerRowA0C", "deinit"]
+- !private ["6Former013DatePickerRowA0C", "enabled"]
+- !private ["6Former013DatePickerRowA0C", "init"]
+- !private ["6Former013DatePickerRowA0C", "onDateChanged"]
+- !private ["6Former013DatePickerRowA0C", "update"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "black"]
+- ["Se", "init"]
+- !private ["Se", "init"]
+- ["Se", "lightGray"]
+- !private ["Se", "map"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "black"]
+- ["SE", "init"]
+- !private ["SE", "init"]
+- ["SE", "lightGray"]
+- !private ["SE", "map"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "black"]
+- !private ["SQ", "deselect"]
+- !private ["SQ", "formDisplayLabel"]
+- !private ["SQ", "formTitleLabel"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "map"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textColor"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- ["s23ExpressibleByNilLiteralP", "lightGray"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["6Former18FormDatePickerCellC", "deinit"]
+- ["6Former8FormableP", "Date"]
+- !private ["6Former8FormableP", "DatePickerRowFormer"]
+- ["6Former8FormableP", "InlineCellType"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "configure"]
+- !private ["6Former8FormableP", "date"]
+- !private ["6Former8FormableP", "dateChanged"]
+- !private ["6Former8FormableP", "displayDisabledColor"]
+- !private ["6Former8FormableP", "displayEditingColor"]
+- !private ["6Former8FormableP", "displayTextColor"]
+- !private ["6Former8FormableP", "displayTextFromDate"]
+- ["6Former8FormableP", "editingDidBegin"]
+- ["6Former8FormableP", "editingDidEnd"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "former"]
+- !private ["6Former8FormableP", "init"]
+- ["6Former8FormableP", "inlineRowFormer"]
+- !private ["6Former8FormableP", "isEditing"]
+- !private ["6Former8FormableP", "onDateChanged"]
+- !private ["6Former8FormableP", "onEditingBegin"]
+- !private ["6Former8FormableP", "onEditingEnded"]
+- !private ["6Former8FormableP", "titleColor"]
+- !private ["6Former8FormableP", "titleDisabledColor"]
+- !private ["6Former8FormableP", "titleEditingColor"]
+- !private ["6Former8FormableP", "update"]
+- ["6Former11FormableRowP", "UILabel"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formDisplayLabel"]
+- !private ["6Former11FormableRowP", "formTitleLabel"]
+- ["6FormerAAC", "InstantiateType"]
+- !private ["6FormerAAC", "deselect"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "black"]
+- !private ["SH", "deselect"]
+- !private ["SH", "formDisplayLabel"]
+- !private ["SH", "formTitleLabel"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "lightGray"]
+- !private ["SH", "map"]
+- !private ["SH", "text"]
+- !private ["SH", "textColor"]
+- ["6Former27InlineDatePickerFormableRowP", "UILabel"]
+- ["6Former27InlineDatePickerFormableRowP", "formDisplayLabel"]
+- ["6Former27InlineDatePickerFormableRowP", "formTitleLabel"]
+- ["6Former019InlineDatePickerRowA0C", "Bool"]
+- ["6Former019InlineDatePickerRowA0C", "Date"]
+- !private ["6Former019InlineDatePickerRowA0C", "DatePickerRowFormer"]
+- ["6Former019InlineDatePickerRowA0C", "FormDatePickerCell"]
+- ["6Former019InlineDatePickerRowA0C", "Former"]
+- ["6Former019InlineDatePickerRowA0C", "IndexPath"]
+- ["6Former019InlineDatePickerRowA0C", "InlineCellType"]
+- ["6Former019InlineDatePickerRowA0C", "RowFormer"]
+- ["6Former019InlineDatePickerRowA0C", "String"]
+- ["6Former019InlineDatePickerRowA0C", "T"]
+- ["6Former019InlineDatePickerRowA0C", "UIColor"]
+- ["6Former019InlineDatePickerRowA0C", "Void"]
+- ["6Former019InlineDatePickerRowA0C", "canBecomeEditing"]
+- !private ["6Former019InlineDatePickerRowA0C", "cell"]
+- ["6Former019InlineDatePickerRowA0C", "cellSelected"]
+- ["6Former019InlineDatePickerRowA0C", "date"]
+- !private ["6Former019InlineDatePickerRowA0C", "dateChanged"]
+- ["6Former019InlineDatePickerRowA0C", "deinit"]
+- ["6Former019InlineDatePickerRowA0C", "displayDisabledColor"]
+- ["6Former019InlineDatePickerRowA0C", "displayEditingColor"]
+- !private ["6Former019InlineDatePickerRowA0C", "displayTextColor"]
+- ["6Former019InlineDatePickerRowA0C", "displayTextFromDate"]
+- ["6Former019InlineDatePickerRowA0C", "editingDidBegin"]
+- ["6Former019InlineDatePickerRowA0C", "editingDidEnd"]
+- !private ["6Former019InlineDatePickerRowA0C", "enabled"]
+- !private ["6Former019InlineDatePickerRowA0C", "former"]
+- ["6Former019InlineDatePickerRowA0C", "init"]
+- ["6Former019InlineDatePickerRowA0C", "inlineRowFormer"]
+- !private ["6Former019InlineDatePickerRowA0C", "isEditing"]
+- ["6Former019InlineDatePickerRowA0C", "onDateChanged"]
+- ["6Former019InlineDatePickerRowA0C", "onEditingBegin"]
+- ["6Former019InlineDatePickerRowA0C", "onEditingEnded"]
+- !private ["6Former019InlineDatePickerRowA0C", "titleColor"]
+- ["6Former019InlineDatePickerRowA0C", "titleDisabledColor"]
+- ["6Former019InlineDatePickerRowA0C", "titleEditingColor"]
+- ["6Former019InlineDatePickerRowA0C", "update"]
+- ["6Former10InlineFormP", "Date"]
+- !private ["6Former10InlineFormP", "DatePickerRowFormer"]
+- ["6Former10InlineFormP", "InlineCellType"]
+- ["6Former10InlineFormP", ""]
+- !private ["6Former10InlineFormP", "cell"]
+- !private ["6Former10InlineFormP", "date"]
+- !private ["6Former10InlineFormP", "dateChanged"]
+- !private ["6Former10InlineFormP", "displayDisabledColor"]
+- !private ["6Former10InlineFormP", "displayEditingColor"]
+- !private ["6Former10InlineFormP", "displayTextColor"]
+- !private ["6Former10InlineFormP", "displayTextFromDate"]
+- ["6Former10InlineFormP", "editingDidBegin"]
+- ["6Former10InlineFormP", "editingDidEnd"]
+- !private ["6Former10InlineFormP", "enabled"]
+- !private ["6Former10InlineFormP", "former"]
+- ["6Former10InlineFormP", "inlineRowFormer"]
+- !private ["6Former10InlineFormP", "isEditing"]
+- !private ["6Former10InlineFormP", "onDateChanged"]
+- !private ["6Former10InlineFormP", "onEditingBegin"]
+- !private ["6Former10InlineFormP", "onEditingEnded"]
+- !private ["6Former10InlineFormP", "titleColor"]
+- !private ["6Former10InlineFormP", "titleDisabledColor"]
+- !private ["6Former10InlineFormP", "titleEditingColor"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "formDisplayLabel"]
+- !private ["So8NSCodingP", "formTitleLabel"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "deselect"]
+- !private ["So8NSObjectC", "formDisplayLabel"]
+- !private ["So8NSObjectC", "formTitleLabel"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textColor"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "deselect"]
+- !private ["So8NSObjectP", "formDisplayLabel"]
+- !private ["So8NSObjectP", "formTitleLabel"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["Sq", "black"]
+- ["Sq", "lightGray"]
+- !private ["Sq", "map"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["6Former03RowA0C", "Bool"]
+- ["6Former03RowA0C", "Date"]
+- !private ["6Former03RowA0C", "DatePickerRowFormer"]
+- ["6Former03RowA0C", "FormDatePickerCell"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "IndexPath"]
+- ["6Former03RowA0C", "InlineCellType"]
+- ["6Former03RowA0C", "RowFormer"]
+- ["6Former03RowA0C", "String"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIColor"]
+- ["6Former03RowA0C", "Void"]
+- ["6Former03RowA0C", "canBecomeEditing"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellSelected"]
+- !private ["6Former03RowA0C", "configure"]
+- ["6Former03RowA0C", "date"]
+- ["6Former03RowA0C", "dateChanged"]
+- ["6Former03RowA0C", "displayDisabledColor"]
+- ["6Former03RowA0C", "displayEditingColor"]
+- ["6Former03RowA0C", "displayTextColor"]
+- ["6Former03RowA0C", "displayTextFromDate"]
+- ["6Former03RowA0C", "editingDidBegin"]
+- ["6Former03RowA0C", "editingDidEnd"]
+- !private ["6Former03RowA0C", "enabled"]
+- !private ["6Former03RowA0C", "former"]
+- ["6Former03RowA0C", "inlineRowFormer"]
+- !private ["6Former03RowA0C", "isEditing"]
+- ["6Former03RowA0C", "onDateChanged"]
+- ["6Former03RowA0C", "onEditingBegin"]
+- ["6Former03RowA0C", "onEditingEnded"]
+- ["6Former03RowA0C", "titleColor"]
+- ["6Former03RowA0C", "titleDisabledColor"]
+- ["6Former03RowA0C", "titleEditingColor"]
+- ["6Former03RowA0C", "update"]
+- ["6Former14SelectableFormP", "Date"]
+- !private ["6Former14SelectableFormP", "DatePickerRowFormer"]
+- ["6Former14SelectableFormP", "InlineCellType"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "configure"]
+- !private ["6Former14SelectableFormP", "date"]
+- !private ["6Former14SelectableFormP", "dateChanged"]
+- !private ["6Former14SelectableFormP", "displayDisabledColor"]
+- !private ["6Former14SelectableFormP", "displayEditingColor"]
+- !private ["6Former14SelectableFormP", "displayTextColor"]
+- !private ["6Former14SelectableFormP", "displayTextFromDate"]
+- ["6Former14SelectableFormP", "editingDidBegin"]
+- ["6Former14SelectableFormP", "editingDidEnd"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "former"]
+- !private ["6Former14SelectableFormP", "init"]
+- ["6Former14SelectableFormP", "inlineRowFormer"]
+- !private ["6Former14SelectableFormP", "isEditing"]
+- !private ["6Former14SelectableFormP", "onDateChanged"]
+- !private ["6Former14SelectableFormP", "onEditingBegin"]
+- !private ["6Former14SelectableFormP", "onEditingEnded"]
+- !private ["6Former14SelectableFormP", "titleColor"]
+- !private ["6Former14SelectableFormP", "titleDisabledColor"]
+- !private ["6Former14SelectableFormP", "titleEditingColor"]
+- !private ["6Former14SelectableFormP", "update"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "formDisplayLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "formTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So12UIAppearanceP", "formDisplayLabel"]
+- !private ["So12UIAppearanceP", "formTitleLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "formDisplayLabel"]
+- !private ["So21UIAppearanceContainerP", "formTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "formDisplayLabel"]
+- !private ["So17UICoordinateSpaceP", "formTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So13UIDynamicItemP", "formDisplayLabel"]
+- !private ["So13UIDynamicItemP", "formTitleLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "formDisplayLabel"]
+- !private ["So18UIFocusEnvironmentP", "formTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So11UIFocusItemP", "formDisplayLabel"]
+- !private ["So11UIFocusItemP", "formTitleLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "formDisplayLabel"]
+- !private ["So20UIFocusItemContainerP", "formTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So27UIGestureRecognizerDelegateP", "formDisplayLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "formTitleLabel"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "formDisplayLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So11UIResponderC", "formDisplayLabel"]
+- !private ["So11UIResponderC", "formTitleLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "formDisplayLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "formTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So20UIScrollViewDelegateP", "deselect"]
+- !private ["So15UITableViewCellC", "formDisplayLabel"]
+- !private ["So15UITableViewCellC", "formTitleLabel"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- !private ["So21UITableViewDataSourceP", "deselect"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So19UITableViewDelegateP", "deselect"]
+- !private ["So18UITraitEnvironmentP", "formDisplayLabel"]
+- !private ["So18UITraitEnvironmentP", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "formDisplayLabel"]
+- !private ["So23UIUserActivityRestoringP", "formTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So6UIViewC", "formDisplayLabel"]
+- !private ["So6UIViewC", "formTitleLabel"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textColor"]
+- ["6Former13UpdatableFormP", "Date"]
+- !private ["6Former13UpdatableFormP", "DatePickerRowFormer"]
+- ["6Former13UpdatableFormP", "InlineCellType"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "configure"]
+- !private ["6Former13UpdatableFormP", "date"]
+- !private ["6Former13UpdatableFormP", "dateChanged"]
+- !private ["6Former13UpdatableFormP", "displayDisabledColor"]
+- !private ["6Former13UpdatableFormP", "displayEditingColor"]
+- !private ["6Former13UpdatableFormP", "displayTextColor"]
+- !private ["6Former13UpdatableFormP", "displayTextFromDate"]
+- ["6Former13UpdatableFormP", "editingDidBegin"]
+- ["6Former13UpdatableFormP", "editingDidEnd"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "former"]
+- !private ["6Former13UpdatableFormP", "init"]
+- ["6Former13UpdatableFormP", "inlineRowFormer"]
+- !private ["6Former13UpdatableFormP", "isEditing"]
+- !private ["6Former13UpdatableFormP", "onDateChanged"]
+- !private ["6Former13UpdatableFormP", "onEditingBegin"]
+- !private ["6Former13UpdatableFormP", "onEditingEnded"]
+- !private ["6Former13UpdatableFormP", "titleColor"]
+- !private ["6Former13UpdatableFormP", "titleDisabledColor"]
+- !private ["6Former13UpdatableFormP", "titleEditingColor"]
+- !private ["6Former13UpdatableFormP", "update"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formDisplayLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTitleLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "deselect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formDisplayLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTitleLabel"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "lightGray"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "6Former07BaseRowA0C"
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- "6Former16ConfigurableFormP"
+- "6Former22ConfigurableInlineFormP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- !private "6Former013DatePickerRowA0C"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "6Former18FormDatePickerCellC"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- "6Former27InlineDatePickerFormableRowP"
+- "6Former019InlineDatePickerRowA0C"
+- "6Former10InlineFormP"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "Sq"
+- !private "Sm"
+- "10Foundation20ReferenceConvertibleP"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f531c7ef5d03e7bf1f3e65effd3de2eb"

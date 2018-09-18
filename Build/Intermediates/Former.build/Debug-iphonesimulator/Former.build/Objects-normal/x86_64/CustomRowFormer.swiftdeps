@@ -1,0 +1,96 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomRowFormer"
+provides-nominal:
+- "6Former09CustomRowA0C"
+provides-member:
+- ["6Former09CustomRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "BaseRowFormer"
+- "CustomRowFormer"
+- "Formable"
+- "Former"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- ["6Former07BaseRowA0C", "init"]
+- ["s7CVarArgP", "InstantiateType"]
+- ["6Former16ConfigurableFormP", ""]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- ["6Former09CustomRowA0C", "Former"]
+- ["6Former09CustomRowA0C", "T"]
+- ["6Former09CustomRowA0C", "Void"]
+- ["6Former09CustomRowA0C", "deinit"]
+- ["6Former09CustomRowA0C", "init"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- ["SQ", "InstantiateType"]
+- ["6Former8FormableP", ""]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- ["So8NSObjectC", "InstantiateType"]
+- ["So8NSObjectP", "InstantiateType"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "Void"]
+- ["6Former14SelectableFormP", ""]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- ["6Former13UpdatableFormP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+depends-nominal:
+- "6Former07BaseRowA0C"
+- "s7CVarArgP"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- "6Former09CustomRowA0C"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "6Former8FormableP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- "So20UIScrollViewDelegateP"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "6Former13UpdatableFormP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1ab41fc2dcc3d5a4f1c5b914a7222f42"

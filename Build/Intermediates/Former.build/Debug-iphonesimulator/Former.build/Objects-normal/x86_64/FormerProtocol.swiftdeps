@@ -1,0 +1,160 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InlineForm"
+- "ConfigurableInlineForm"
+- "SelectorForm"
+- "UpdatableSelectorForm"
+- "Formable"
+- "SelectableForm"
+- "UpdatableForm"
+- "ConfigurableForm"
+provides-nominal:
+- "6Former10InlineFormP"
+- "6Former22ConfigurableInlineFormP"
+- "6Former12SelectorFormP"
+- "6Former21UpdatableSelectorFormP"
+- "6Former8FormableP"
+- "6Former14SelectableFormP"
+- "6Former13UpdatableFormP"
+- "6Former16ConfigurableFormP"
+provides-member:
+- ["6Former10InlineFormP", ""]
+- ["6Former22ConfigurableInlineFormP", ""]
+- ["6Former12SelectorFormP", ""]
+- ["6Former21UpdatableSelectorFormP", ""]
+- ["6Former8FormableP", ""]
+- ["6Former14SelectableFormP", ""]
+- ["6Former13UpdatableFormP", ""]
+- ["6Former16ConfigurableFormP", ""]
+- ["6Former22ConfigurableInlineFormP", "inlineCellSetup"]
+- ["6Former22ConfigurableInlineFormP", "inlineCellUpdate"]
+- ["6Former21UpdatableSelectorFormP", "selectorViewUpdate"]
+- ["6Former14SelectableFormP", "onSelected"]
+- ["6Former13UpdatableFormP", "update"]
+- ["6Former13UpdatableFormP", "onUpdate"]
+- ["6Former16ConfigurableFormP", "configure"]
+- ["6Former16ConfigurableFormP", "configure"]
+- ["6Former16ConfigurableFormP", "update"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "ConfigurableForm"
+- "ConfigurableInlineForm"
+- "Formable"
+- "InlineForm"
+- "RowFormer"
+- "SelectableForm"
+- "SelectorForm"
+- "UITableViewCell"
+- "UIView"
+- "UpdatableForm"
+- "UpdatableSelectorForm"
+- "ViewFormer"
+- "Void"
+depends-member:
+- ["6Former16ConfigurableFormP", "RowFormer"]
+- ["6Former16ConfigurableFormP", "Self"]
+- ["6Former16ConfigurableFormP", "ViewFormer"]
+- ["6Former16ConfigurableFormP", "Void"]
+- ["6Former16ConfigurableFormP", ""]
+- ["6Former16ConfigurableFormP", "configure"]
+- ["6Former16ConfigurableFormP", "update"]
+- ["6Former22ConfigurableInlineFormP", "InlineCellType"]
+- ["6Former22ConfigurableInlineFormP", "RowFormer"]
+- ["6Former22ConfigurableInlineFormP", "Self"]
+- ["6Former22ConfigurableInlineFormP", "UITableViewCell"]
+- ["6Former22ConfigurableInlineFormP", "Void"]
+- ["6Former22ConfigurableInlineFormP", "inlineCellSetup"]
+- ["6Former22ConfigurableInlineFormP", "inlineCellUpdate"]
+- !private ["6Former22ConfigurableInlineFormP", "inlineRowFormer"]
+- ["6Former10InlineFormP", "InlineCellType"]
+- ["6Former10InlineFormP", "RowFormer"]
+- ["6Former10InlineFormP", "Self"]
+- ["6Former10InlineFormP", "UITableViewCell"]
+- ["6Former10InlineFormP", "Void"]
+- ["6Former10InlineFormP", ""]
+- ["6Former10InlineFormP", "editingDidBegin"]
+- ["6Former10InlineFormP", "editingDidEnd"]
+- ["6Former10InlineFormP", "inlineRowFormer"]
+- ["6Former03RowA0C", "InlineCellType"]
+- ["6Former03RowA0C", "SelectorViewType"]
+- ["6Former03RowA0C", "Self"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cellInstance"]
+- !private ["6Former03RowA0C", "cellSetup"]
+- !private ["6Former03RowA0C", "inlineRowFormer"]
+- !private ["6Former03RowA0C", "onSelected"]
+- !private ["6Former03RowA0C", "onUpdate"]
+- !private ["6Former03RowA0C", "selectorView"]
+- !private ["6Former03RowA0C", "update"]
+- ["6Former14SelectableFormP", "RowFormer"]
+- ["6Former14SelectableFormP", "Self"]
+- ["6Former14SelectableFormP", "Void"]
+- ["6Former14SelectableFormP", ""]
+- ["6Former14SelectableFormP", "onSelected"]
+- ["6Former12SelectorFormP", "RowFormer"]
+- ["6Former12SelectorFormP", "SelectorViewType"]
+- ["6Former12SelectorFormP", "Self"]
+- ["6Former12SelectorFormP", "UIView"]
+- ["6Former12SelectorFormP", "Void"]
+- ["6Former12SelectorFormP", ""]
+- ["6Former12SelectorFormP", "editingDidBegin"]
+- ["6Former12SelectorFormP", "editingDidEnd"]
+- !private ["6Former12SelectorFormP", "selectorView"]
+- ["6Former13UpdatableFormP", "RowFormer"]
+- ["6Former13UpdatableFormP", "Self"]
+- ["6Former13UpdatableFormP", "Void"]
+- ["6Former13UpdatableFormP", ""]
+- ["6Former13UpdatableFormP", "onUpdate"]
+- ["6Former13UpdatableFormP", "update"]
+- ["6Former21UpdatableSelectorFormP", "RowFormer"]
+- ["6Former21UpdatableSelectorFormP", "SelectorViewType"]
+- ["6Former21UpdatableSelectorFormP", "Self"]
+- ["6Former21UpdatableSelectorFormP", "UIView"]
+- ["6Former21UpdatableSelectorFormP", "Void"]
+- ["6Former21UpdatableSelectorFormP", "selectorView"]
+- ["6Former21UpdatableSelectorFormP", "selectorViewUpdate"]
+- ["6Former04ViewA0C", "Self"]
+- ["6Former04ViewA0C", "Void"]
+- !private ["6Former04ViewA0C", "update"]
+depends-nominal:
+- "6Former16ConfigurableFormP"
+- "6Former22ConfigurableInlineFormP"
+- "6Former10InlineFormP"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- "6Former12SelectorFormP"
+- "6Former13UpdatableFormP"
+- "6Former21UpdatableSelectorFormP"
+- "6Former04ViewA0C"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "96c14fcfe58fc43dbac2963f7e277191"

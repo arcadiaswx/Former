@@ -1,0 +1,657 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SegmentedFormableRow"
+- "SegmentedRowFormer"
+provides-nominal:
+- "6Former20SegmentedFormableRowP"
+- "6Former012SegmentedRowA0C"
+provides-member:
+- ["6Former20SegmentedFormableRowP", ""]
+- ["6Former012SegmentedRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- !private "BooleanLiteralType"
+- "FloatLiteralType"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "Int"
+- "IntegerLiteralType"
+- "SegmentedFormableRow"
+- "SegmentedRowFormer"
+- "String"
+- "UIColor"
+- "UILabel"
+- "UISegmentedControl"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- !private ["Sa", "enumerated"]
+- ["Sa", "init"]
+- !private ["s13ArrayProtocolP", "enumerated"]
+- ["s13ArrayProtocolP", "init"]
+- ["6Former07BaseRowA0C", "Former"]
+- ["6Former07BaseRowA0C", "Int"]
+- !private ["6Former07BaseRowA0C", "SegmentedRowFormer"]
+- ["6Former07BaseRowA0C", "String"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIColor"]
+- ["6Former07BaseRowA0C", "UISegmentedControl"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellInitialized"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "onSegmentSelected"]
+- ["6Former07BaseRowA0C", "segmentTitles"]
+- ["6Former07BaseRowA0C", "selectedIndex"]
+- ["6Former07BaseRowA0C", "titleColor"]
+- ["6Former07BaseRowA0C", "titleDisabledColor"]
+- ["6Former07BaseRowA0C", "update"]
+- ["6Former07BaseRowA0C", "valueChanged"]
+- !private ["SK", "enumerated"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "formSegmented"]
+- !private ["So15CALayerDelegateP", "formTitleLabel"]
+- !private ["So15CALayerDelegateP", "insertSegment"]
+- !private ["So15CALayerDelegateP", "isEnabled"]
+- !private ["So15CALayerDelegateP", "removeAllSegments"]
+- !private ["So15CALayerDelegateP", "selectedSegmentIndex"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- !private ["So15CALayerDelegateP", "titleForSegment"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "formSegmented"]
+- !private ["s7CVarArgP", "formTitleLabel"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insertSegment"]
+- !private ["s7CVarArgP", "isEnabled"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "removeAllSegments"]
+- !private ["s7CVarArgP", "selectedSegmentIndex"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "textColor"]
+- !private ["s7CVarArgP", "titleForSegment"]
+- !private ["Sl", "enumerated"]
+- ["Sl", "init"]
+- !private ["6Former16ConfigurableFormP", "SegmentedRowFormer"]
+- ["6Former16ConfigurableFormP", "String"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "onSegmentSelected"]
+- !private ["6Former16ConfigurableFormP", "segmentTitles"]
+- !private ["6Former16ConfigurableFormP", "selectedIndex"]
+- !private ["6Former16ConfigurableFormP", "titleColor"]
+- !private ["6Former16ConfigurableFormP", "titleDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "valueChanged"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "formSegmented"]
+- !private ["s28CustomDebugStringConvertibleP", "formTitleLabel"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insertSegment"]
+- !private ["s28CustomDebugStringConvertibleP", "isEnabled"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAllSegments"]
+- !private ["s28CustomDebugStringConvertibleP", "selectedSegmentIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s28CustomDebugStringConvertibleP", "titleForSegment"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "black"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "lightGray"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "formSegmented"]
+- !private ["s23CustomStringConvertibleP", "formTitleLabel"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insertSegment"]
+- !private ["s23CustomStringConvertibleP", "isEnabled"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "removeAllSegments"]
+- !private ["s23CustomStringConvertibleP", "selectedSegmentIndex"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["s23CustomStringConvertibleP", "titleForSegment"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "black"]
+- !private ["Se", "enumerated"]
+- ["Se", "init"]
+- ["Se", "lightGray"]
+- !private ["Se", "map"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "black"]
+- !private ["SE", "enumerated"]
+- ["SE", "init"]
+- ["SE", "lightGray"]
+- !private ["SE", "map"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "black"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "formSegmented"]
+- !private ["SQ", "formTitleLabel"]
+- ["SQ", "init"]
+- !private ["SQ", "insertSegment"]
+- !private ["SQ", "isEnabled"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "map"]
+- !private ["SQ", "none"]
+- !private ["SQ", "removeAllSegments"]
+- !private ["SQ", "selectedSegmentIndex"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "textColor"]
+- !private ["SQ", "titleForSegment"]
+- !private ["SQ", "valueChanged"]
+- !private ["So15UIControlEventsV", "valueChanged"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- ["s23ExpressibleByNilLiteralP", "lightGray"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["6Former8FormableP", "SegmentedRowFormer"]
+- ["6Former8FormableP", "String"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "onSegmentSelected"]
+- !private ["6Former8FormableP", "segmentTitles"]
+- !private ["6Former8FormableP", "selectedIndex"]
+- !private ["6Former8FormableP", "titleColor"]
+- !private ["6Former8FormableP", "titleDisabledColor"]
+- !private ["6Former8FormableP", "valueChanged"]
+- ["6Former11FormableRowP", "UILabel"]
+- ["6Former11FormableRowP", "UISegmentedControl"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formSegmented"]
+- !private ["6Former11FormableRowP", "formTitleLabel"]
+- !private ["6Former11FormableRowP", "selectionStyle"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addTarget"]
+- !private ["SH", "black"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "formSegmented"]
+- !private ["SH", "formTitleLabel"]
+- ["SH", "init"]
+- !private ["SH", "insertSegment"]
+- !private ["SH", "isEnabled"]
+- ["SH", "lightGray"]
+- !private ["SH", "map"]
+- !private ["SH", "none"]
+- !private ["SH", "removeAllSegments"]
+- !private ["SH", "selectedSegmentIndex"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "textColor"]
+- !private ["SH", "titleForSegment"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "enumerated"]
+- ["SM", "init"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "formSegmented"]
+- !private ["So8NSCodingP", "formTitleLabel"]
+- !private ["So8NSCodingP", "insertSegment"]
+- !private ["So8NSCodingP", "isEnabled"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "removeAllSegments"]
+- !private ["So8NSCodingP", "selectedSegmentIndex"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So8NSCodingP", "titleForSegment"]
+- !private ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "formSegmented"]
+- !private ["So8NSObjectC", "formTitleLabel"]
+- !private ["So8NSObjectC", "insertSegment"]
+- !private ["So8NSObjectC", "isEnabled"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "removeAllSegments"]
+- !private ["So8NSObjectC", "selectedSegmentIndex"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- !private ["So8NSObjectC", "textColor"]
+- !private ["So8NSObjectC", "titleForSegment"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "formSegmented"]
+- !private ["So8NSObjectP", "formTitleLabel"]
+- !private ["So8NSObjectP", "insertSegment"]
+- !private ["So8NSObjectP", "isEnabled"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "removeAllSegments"]
+- !private ["So8NSObjectP", "selectedSegmentIndex"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So8NSObjectP", "titleForSegment"]
+- !private ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["Sq", "black"]
+- ["Sq", "lightGray"]
+- !private ["Sq", "map"]
+- !private ["Sk", "enumerated"]
+- ["Sk", "init"]
+- !private ["Sm", "enumerated"]
+- ["Sm", "init"]
+- !private ["SY", "none"]
+- !private ["SY", "valueChanged"]
+- ["6Former03RowA0C", "Former"]
+- ["6Former03RowA0C", "Int"]
+- !private ["6Former03RowA0C", "SegmentedRowFormer"]
+- ["6Former03RowA0C", "String"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIColor"]
+- ["6Former03RowA0C", "UISegmentedControl"]
+- ["6Former03RowA0C", "Void"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellInitialized"]
+- !private ["6Former03RowA0C", "enabled"]
+- ["6Former03RowA0C", "onSegmentSelected"]
+- ["6Former03RowA0C", "segmentTitles"]
+- ["6Former03RowA0C", "selectedIndex"]
+- ["6Former03RowA0C", "titleColor"]
+- ["6Former03RowA0C", "titleDisabledColor"]
+- ["6Former03RowA0C", "update"]
+- ["6Former03RowA0C", "valueChanged"]
+- ["6Former20SegmentedFormableRowP", "UILabel"]
+- ["6Former20SegmentedFormableRowP", "UISegmentedControl"]
+- ["6Former20SegmentedFormableRowP", "formSegmented"]
+- ["6Former20SegmentedFormableRowP", "formTitleLabel"]
+- !private ["6Former20SegmentedFormableRowP", "selectionStyle"]
+- ["6Former012SegmentedRowA0C", "Former"]
+- ["6Former012SegmentedRowA0C", "Int"]
+- !private ["6Former012SegmentedRowA0C", "SegmentedRowFormer"]
+- ["6Former012SegmentedRowA0C", "String"]
+- ["6Former012SegmentedRowA0C", "T"]
+- ["6Former012SegmentedRowA0C", "UIColor"]
+- ["6Former012SegmentedRowA0C", "UISegmentedControl"]
+- ["6Former012SegmentedRowA0C", "Void"]
+- !private ["6Former012SegmentedRowA0C", "cell"]
+- ["6Former012SegmentedRowA0C", "cellInitialized"]
+- ["6Former012SegmentedRowA0C", "deinit"]
+- !private ["6Former012SegmentedRowA0C", "enabled"]
+- ["6Former012SegmentedRowA0C", "init"]
+- ["6Former012SegmentedRowA0C", "onSegmentSelected"]
+- ["6Former012SegmentedRowA0C", "segmentTitles"]
+- ["6Former012SegmentedRowA0C", "selectedIndex"]
+- !private ["6Former012SegmentedRowA0C", "titleColor"]
+- ["6Former012SegmentedRowA0C", "titleDisabledColor"]
+- ["6Former012SegmentedRowA0C", "update"]
+- !private ["6Former012SegmentedRowA0C", "valueChanged"]
+- !private ["6Former14SelectableFormP", "SegmentedRowFormer"]
+- ["6Former14SelectableFormP", "String"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "onSegmentSelected"]
+- !private ["6Former14SelectableFormP", "segmentTitles"]
+- !private ["6Former14SelectableFormP", "selectedIndex"]
+- !private ["6Former14SelectableFormP", "titleColor"]
+- !private ["6Former14SelectableFormP", "titleDisabledColor"]
+- !private ["6Former14SelectableFormP", "valueChanged"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["ST", "enumerated"]
+- ["ST", "init"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "formSegmented"]
+- !private ["So29UIAccessibilityIdentificationP", "formTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "insertSegment"]
+- !private ["So29UIAccessibilityIdentificationP", "isEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "removeAllSegments"]
+- !private ["So29UIAccessibilityIdentificationP", "selectedSegmentIndex"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So29UIAccessibilityIdentificationP", "titleForSegment"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "formSegmented"]
+- !private ["So12UIAppearanceP", "formTitleLabel"]
+- !private ["So12UIAppearanceP", "insertSegment"]
+- !private ["So12UIAppearanceP", "isEnabled"]
+- !private ["So12UIAppearanceP", "removeAllSegments"]
+- !private ["So12UIAppearanceP", "selectedSegmentIndex"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So12UIAppearanceP", "titleForSegment"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "formSegmented"]
+- !private ["So21UIAppearanceContainerP", "formTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "insertSegment"]
+- !private ["So21UIAppearanceContainerP", "isEnabled"]
+- !private ["So21UIAppearanceContainerP", "removeAllSegments"]
+- !private ["So21UIAppearanceContainerP", "selectedSegmentIndex"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "titleForSegment"]
+- !private ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "insertSegment"]
+- !private ["So9UIControlC", "isEnabled"]
+- !private ["So9UIControlC", "removeAllSegments"]
+- !private ["So9UIControlC", "selectedSegmentIndex"]
+- !private ["So9UIControlC", "titleForSegment"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "formSegmented"]
+- !private ["So17UICoordinateSpaceP", "formTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "insertSegment"]
+- !private ["So17UICoordinateSpaceP", "isEnabled"]
+- !private ["So17UICoordinateSpaceP", "removeAllSegments"]
+- !private ["So17UICoordinateSpaceP", "selectedSegmentIndex"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "titleForSegment"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "formSegmented"]
+- !private ["So13UIDynamicItemP", "formTitleLabel"]
+- !private ["So13UIDynamicItemP", "insertSegment"]
+- !private ["So13UIDynamicItemP", "isEnabled"]
+- !private ["So13UIDynamicItemP", "removeAllSegments"]
+- !private ["So13UIDynamicItemP", "selectedSegmentIndex"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So13UIDynamicItemP", "titleForSegment"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "formSegmented"]
+- !private ["So18UIFocusEnvironmentP", "formTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "insertSegment"]
+- !private ["So18UIFocusEnvironmentP", "isEnabled"]
+- !private ["So18UIFocusEnvironmentP", "removeAllSegments"]
+- !private ["So18UIFocusEnvironmentP", "selectedSegmentIndex"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "titleForSegment"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "formSegmented"]
+- !private ["So11UIFocusItemP", "formTitleLabel"]
+- !private ["So11UIFocusItemP", "insertSegment"]
+- !private ["So11UIFocusItemP", "isEnabled"]
+- !private ["So11UIFocusItemP", "removeAllSegments"]
+- !private ["So11UIFocusItemP", "selectedSegmentIndex"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So11UIFocusItemP", "titleForSegment"]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "formSegmented"]
+- !private ["So20UIFocusItemContainerP", "formTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "insertSegment"]
+- !private ["So20UIFocusItemContainerP", "isEnabled"]
+- !private ["So20UIFocusItemContainerP", "removeAllSegments"]
+- !private ["So20UIFocusItemContainerP", "selectedSegmentIndex"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "titleForSegment"]
+- !private ["So27UIGestureRecognizerDelegateP", "formSegmented"]
+- !private ["So27UIGestureRecognizerDelegateP", "formTitleLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "formSegmented"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "insertSegment"]
+- !private ["So30UIPasteConfigurationSupportingP", "isEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "removeAllSegments"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectedSegmentIndex"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleForSegment"]
+- !private ["So11UIResponderC", "addTarget"]
+- !private ["So11UIResponderC", "formSegmented"]
+- !private ["So11UIResponderC", "formTitleLabel"]
+- !private ["So11UIResponderC", "insertSegment"]
+- !private ["So11UIResponderC", "isEnabled"]
+- !private ["So11UIResponderC", "removeAllSegments"]
+- !private ["So11UIResponderC", "selectedSegmentIndex"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So11UIResponderC", "titleForSegment"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "formSegmented"]
+- !private ["So30UIResponderStandardEditActionsP", "formTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "insertSegment"]
+- !private ["So30UIResponderStandardEditActionsP", "isEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "removeAllSegments"]
+- !private ["So30UIResponderStandardEditActionsP", "selectedSegmentIndex"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "titleForSegment"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So18UISegmentedControlC", "addTarget"]
+- !private ["So18UISegmentedControlC", "insertSegment"]
+- !private ["So18UISegmentedControlC", "isEnabled"]
+- !private ["So18UISegmentedControlC", "removeAllSegments"]
+- !private ["So18UISegmentedControlC", "selectedSegmentIndex"]
+- !private ["So18UISegmentedControlC", "titleForSegment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTarget"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "insertSegment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isEnabled"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "removeAllSegments"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "selectedSegmentIndex"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleForSegment"]
+- !private ["So15UITableViewCellC", "formSegmented"]
+- !private ["So15UITableViewCellC", "formTitleLabel"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "formSegmented"]
+- !private ["So18UITraitEnvironmentP", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "insertSegment"]
+- !private ["So18UITraitEnvironmentP", "isEnabled"]
+- !private ["So18UITraitEnvironmentP", "removeAllSegments"]
+- !private ["So18UITraitEnvironmentP", "selectedSegmentIndex"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So18UITraitEnvironmentP", "titleForSegment"]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "formSegmented"]
+- !private ["So23UIUserActivityRestoringP", "formTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "insertSegment"]
+- !private ["So23UIUserActivityRestoringP", "isEnabled"]
+- !private ["So23UIUserActivityRestoringP", "removeAllSegments"]
+- !private ["So23UIUserActivityRestoringP", "selectedSegmentIndex"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "titleForSegment"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "formSegmented"]
+- !private ["So6UIViewC", "formTitleLabel"]
+- !private ["So6UIViewC", "insertSegment"]
+- !private ["So6UIViewC", "isEnabled"]
+- !private ["So6UIViewC", "removeAllSegments"]
+- !private ["So6UIViewC", "selectedSegmentIndex"]
+- !private ["So6UIViewC", "selectionStyle"]
+- !private ["So6UIViewC", "textColor"]
+- !private ["So6UIViewC", "titleForSegment"]
+- !private ["6Former13UpdatableFormP", "SegmentedRowFormer"]
+- ["6Former13UpdatableFormP", "String"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "onSegmentSelected"]
+- !private ["6Former13UpdatableFormP", "segmentTitles"]
+- !private ["6Former13UpdatableFormP", "selectedIndex"]
+- !private ["6Former13UpdatableFormP", "titleColor"]
+- !private ["6Former13UpdatableFormP", "titleDisabledColor"]
+- !private ["6Former13UpdatableFormP", "valueChanged"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formSegmented"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTitleLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "insertSegment"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "removeAllSegments"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectedSegmentIndex"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleForSegment"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formSegmented"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "insertSegment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEnabled"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeAllSegments"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectedSegmentIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleForSegment"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "lightGray"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- "Sa"
+- "s13ArrayProtocolP"
+- "6Former07BaseRowA0C"
+- "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- "SM"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- "Sq"
+- "Sk"
+- "Sm"
+- !private "SY"
+- "6Former03RowA0C"
+- "6Former20SegmentedFormableRowP"
+- "6Former012SegmentedRowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UITableViewCellSelectionStyleV"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So18UISegmentedControlC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "05c1c449f405e39163ea957ad8c8cc35"

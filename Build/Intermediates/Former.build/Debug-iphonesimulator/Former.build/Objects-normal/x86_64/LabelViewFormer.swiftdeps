@@ -1,0 +1,202 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LabelFormableView"
+- "LabelViewFormer"
+provides-nominal:
+- "6Former17LabelFormableViewP"
+- "6Former09LabelViewA0C"
+provides-member:
+- ["6Former17LabelFormableViewP", ""]
+- ["6Former09LabelViewA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "BaseViewFormer"
+- !private "FloatLiteralType"
+- "FormableView"
+- "Former"
+- !private "IntegerLiteralType"
+- "LabelFormableView"
+- "LabelViewFormer"
+- "String"
+- "UILabel"
+- "UITableViewHeaderFooterView"
+- "Void"
+depends-member:
+- ["6Former08BaseViewA0C", "Former"]
+- ["6Former08BaseViewA0C", "String"]
+- ["6Former08BaseViewA0C", "T"]
+- ["6Former08BaseViewA0C", "Void"]
+- ["6Former08BaseViewA0C", ""]
+- ["6Former08BaseViewA0C", "init"]
+- ["6Former08BaseViewA0C", "initialized"]
+- ["6Former08BaseViewA0C", "text"]
+- ["6Former08BaseViewA0C", "update"]
+- !private ["6Former08BaseViewA0C", "view"]
+- !private ["6Former08BaseViewA0C", "viewHeight"]
+- !private ["So15CALayerDelegateP", "formTitleLabel"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "formTitleLabel"]
+- !private ["s7CVarArgP", "text"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "init"]
+- !private ["6Former16ConfigurableFormP", "initialized"]
+- !private ["6Former16ConfigurableFormP", "text"]
+- !private ["6Former16ConfigurableFormP", "update"]
+- !private ["6Former16ConfigurableFormP", "view"]
+- !private ["6Former16ConfigurableFormP", "viewHeight"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "formTitleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "formTitleLabel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "formTitleLabel"]
+- !private ["SQ", "text"]
+- ["6Former12FormableViewP", "UILabel"]
+- ["6Former12FormableViewP", ""]
+- !private ["6Former12FormableViewP", "formTitleLabel"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "formTitleLabel"]
+- !private ["SH", "text"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- ["6Former17LabelFormableViewP", "UILabel"]
+- ["6Former17LabelFormableViewP", "formTitleLabel"]
+- ["6Former09LabelViewA0C", "Former"]
+- ["6Former09LabelViewA0C", "String"]
+- ["6Former09LabelViewA0C", "T"]
+- ["6Former09LabelViewA0C", "Void"]
+- ["6Former09LabelViewA0C", "init"]
+- ["6Former09LabelViewA0C", "initialized"]
+- ["6Former09LabelViewA0C", "text"]
+- ["6Former09LabelViewA0C", "update"]
+- !private ["6Former09LabelViewA0C", "view"]
+- !private ["6Former09LabelViewA0C", "viewHeight"]
+- !private ["So8NSCodingP", "formTitleLabel"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "formTitleLabel"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "formTitleLabel"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "formTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "formTitleLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "formTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "formTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "formTitleLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "formTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So11UIFocusItemP", "formTitleLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "formTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So11UIResponderC", "formTitleLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "formTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So023UITableViewHeaderFooterB0C", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So23UIUserActivityRestoringP", "formTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So6UIViewC", "formTitleLabel"]
+- !private ["So6UIViewC", "text"]
+- ["6Former04ViewA0C", "Former"]
+- ["6Former04ViewA0C", "String"]
+- ["6Former04ViewA0C", "T"]
+- ["6Former04ViewA0C", "Void"]
+- ["6Former04ViewA0C", "initialized"]
+- ["6Former04ViewA0C", "text"]
+- ["6Former04ViewA0C", "update"]
+- !private ["6Former04ViewA0C", "view"]
+- !private ["6Former04ViewA0C", "viewHeight"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTitleLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+depends-nominal:
+- "6Former08BaseViewA0C"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "6Former12FormableViewP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- "6Former17LabelFormableViewP"
+- "6Former09LabelViewA0C"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So023UITableViewHeaderFooterB0C"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former04ViewA0C"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dcd5c9d0e9ce237dd69b0940a9fb0eb1"

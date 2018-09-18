@@ -1,0 +1,681 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SliderFormableRow"
+- "SliderRowFormer"
+provides-nominal:
+- "6Former17SliderFormableRowP"
+- "6Former09SliderRowA0C"
+provides-member:
+- ["6Former17SliderFormableRowP", ""]
+- ["6Former09SliderRowA0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "BaseRowFormer"
+- "Float"
+- "FloatLiteralType"
+- "Formable"
+- "FormableRow"
+- "Former"
+- "IntegerLiteralType"
+- "SliderFormableRow"
+- "SliderRowFormer"
+- "String"
+- !private "StringLiteralType"
+- "UIColor"
+- "UILabel"
+- "UISlider"
+- "UITableViewCell"
+- "Void"
+depends-member:
+- ["6Former07BaseRowA0C", "Float"]
+- ["6Former07BaseRowA0C", "Former"]
+- !private ["6Former07BaseRowA0C", "SliderRowFormer"]
+- ["6Former07BaseRowA0C", "String"]
+- ["6Former07BaseRowA0C", "T"]
+- ["6Former07BaseRowA0C", "UIColor"]
+- ["6Former07BaseRowA0C", "UISlider"]
+- ["6Former07BaseRowA0C", "Void"]
+- ["6Former07BaseRowA0C", ""]
+- ["6Former07BaseRowA0C", "adjustedValueFromValue"]
+- !private ["6Former07BaseRowA0C", "cell"]
+- ["6Former07BaseRowA0C", "cellInitialized"]
+- ["6Former07BaseRowA0C", "displayColor"]
+- ["6Former07BaseRowA0C", "displayDisabledColor"]
+- ["6Former07BaseRowA0C", "displayTextFromValue"]
+- !private ["6Former07BaseRowA0C", "enabled"]
+- ["6Former07BaseRowA0C", "init"]
+- ["6Former07BaseRowA0C", "initialized"]
+- ["6Former07BaseRowA0C", "onValueChanged"]
+- !private ["6Former07BaseRowA0C", "rowHeight"]
+- ["6Former07BaseRowA0C", "titleColor"]
+- ["6Former07BaseRowA0C", "titleDisabledColor"]
+- ["6Former07BaseRowA0C", "update"]
+- ["6Former07BaseRowA0C", "value"]
+- ["6Former07BaseRowA0C", "valueChanged"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "formDisplayLabel"]
+- !private ["So15CALayerDelegateP", "formSlider"]
+- !private ["So15CALayerDelegateP", "formTitleLabel"]
+- !private ["So15CALayerDelegateP", "isEnabled"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- !private ["So15CALayerDelegateP", "value"]
+- ["s7CVarArgP", "InstantiateType"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "formDisplayLabel"]
+- !private ["s7CVarArgP", "formSlider"]
+- !private ["s7CVarArgP", "formTitleLabel"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEnabled"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textColor"]
+- !private ["s7CVarArgP", "value"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["6Former16ConfigurableFormP", "SliderRowFormer"]
+- ["6Former16ConfigurableFormP", ""]
+- !private ["6Former16ConfigurableFormP", "adjustedValueFromValue"]
+- !private ["6Former16ConfigurableFormP", "cell"]
+- !private ["6Former16ConfigurableFormP", "displayColor"]
+- !private ["6Former16ConfigurableFormP", "displayDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "displayTextFromValue"]
+- !private ["6Former16ConfigurableFormP", "enabled"]
+- !private ["6Former16ConfigurableFormP", "onValueChanged"]
+- !private ["6Former16ConfigurableFormP", "rowHeight"]
+- !private ["6Former16ConfigurableFormP", "titleColor"]
+- !private ["6Former16ConfigurableFormP", "titleDisabledColor"]
+- !private ["6Former16ConfigurableFormP", "value"]
+- !private ["6Former16ConfigurableFormP", "valueChanged"]
+- ["s28CustomDebugStringConvertibleP", "InstantiateType"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "formDisplayLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "formSlider"]
+- !private ["s28CustomDebugStringConvertibleP", "formTitleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEnabled"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "black"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "lightGray"]
+- !private ["s17CustomReflectableP", "map"]
+- ["s23CustomStringConvertibleP", "InstantiateType"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "formDisplayLabel"]
+- !private ["s23CustomStringConvertibleP", "formSlider"]
+- !private ["s23CustomStringConvertibleP", "formTitleLabel"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEnabled"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "black"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- ["Se", "lightGray"]
+- !private ["Se", "map"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "black"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- ["SE", "lightGray"]
+- !private ["SE", "map"]
+- ["SQ", "InstantiateType"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "black"]
+- !private ["SQ", "formDisplayLabel"]
+- !private ["SQ", "formSlider"]
+- !private ["SQ", "formTitleLabel"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEnabled"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "map"]
+- !private ["SQ", "none"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textColor"]
+- !private ["SQ", "value"]
+- !private ["SQ", "valueChanged"]
+- !private ["So15UIControlEventsV", "valueChanged"]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- ["s23ExpressibleByNilLiteralP", "lightGray"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["6Former8FormableP", "SliderRowFormer"]
+- ["6Former8FormableP", ""]
+- !private ["6Former8FormableP", "adjustedValueFromValue"]
+- !private ["6Former8FormableP", "cell"]
+- !private ["6Former8FormableP", "displayColor"]
+- !private ["6Former8FormableP", "displayDisabledColor"]
+- !private ["6Former8FormableP", "displayTextFromValue"]
+- !private ["6Former8FormableP", "enabled"]
+- !private ["6Former8FormableP", "onValueChanged"]
+- !private ["6Former8FormableP", "rowHeight"]
+- !private ["6Former8FormableP", "titleColor"]
+- !private ["6Former8FormableP", "titleDisabledColor"]
+- !private ["6Former8FormableP", "value"]
+- !private ["6Former8FormableP", "valueChanged"]
+- ["6Former11FormableRowP", "UILabel"]
+- ["6Former11FormableRowP", "UISlider"]
+- ["6Former11FormableRowP", ""]
+- !private ["6Former11FormableRowP", "formDisplayLabel"]
+- !private ["6Former11FormableRowP", "formSlider"]
+- !private ["6Former11FormableRowP", "formTitleLabel"]
+- !private ["6Former11FormableRowP", "selectionStyle"]
+- ["6FormerAAC", "InstantiateType"]
+- ["SH", "InstantiateType"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addTarget"]
+- !private ["SH", "black"]
+- !private ["SH", "formDisplayLabel"]
+- !private ["SH", "formSlider"]
+- !private ["SH", "formTitleLabel"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isEnabled"]
+- ["SH", "lightGray"]
+- !private ["SH", "map"]
+- !private ["SH", "none"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "text"]
+- !private ["SH", "textColor"]
+- !private ["SH", "value"]
+- !private ["6FormerAAC15InstantiateTypeO", "Class"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "formDisplayLabel"]
+- !private ["So8NSCodingP", "formSlider"]
+- !private ["So8NSCodingP", "formTitleLabel"]
+- !private ["So8NSCodingP", "isEnabled"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So9NSCopyingP", "black"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- ["So8NSObjectC", "InstantiateType"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "formDisplayLabel"]
+- !private ["So8NSObjectC", "formSlider"]
+- !private ["So8NSObjectC", "formTitleLabel"]
+- !private ["So8NSObjectC", "isEnabled"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textColor"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectP", "InstantiateType"]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "formDisplayLabel"]
+- !private ["So8NSObjectP", "formSlider"]
+- !private ["So8NSObjectP", "formTitleLabel"]
+- !private ["So8NSObjectP", "isEnabled"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So14NSSecureCodingP", "black"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["Sq", "black"]
+- ["Sq", "lightGray"]
+- !private ["Sq", "map"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "none"]
+- !private ["SY", "valueChanged"]
+- ["6Former03RowA0C", "Float"]
+- ["6Former03RowA0C", "Former"]
+- !private ["6Former03RowA0C", "SliderRowFormer"]
+- ["6Former03RowA0C", "String"]
+- ["6Former03RowA0C", "T"]
+- ["6Former03RowA0C", "UIColor"]
+- ["6Former03RowA0C", "UISlider"]
+- ["6Former03RowA0C", "Void"]
+- ["6Former03RowA0C", "adjustedValueFromValue"]
+- !private ["6Former03RowA0C", "cell"]
+- ["6Former03RowA0C", "cellInitialized"]
+- ["6Former03RowA0C", "displayColor"]
+- ["6Former03RowA0C", "displayDisabledColor"]
+- ["6Former03RowA0C", "displayTextFromValue"]
+- !private ["6Former03RowA0C", "enabled"]
+- ["6Former03RowA0C", "initialized"]
+- ["6Former03RowA0C", "onValueChanged"]
+- !private ["6Former03RowA0C", "rowHeight"]
+- ["6Former03RowA0C", "titleColor"]
+- ["6Former03RowA0C", "titleDisabledColor"]
+- ["6Former03RowA0C", "update"]
+- ["6Former03RowA0C", "value"]
+- ["6Former03RowA0C", "valueChanged"]
+- !private ["6Former14SelectableFormP", "SliderRowFormer"]
+- ["6Former14SelectableFormP", ""]
+- !private ["6Former14SelectableFormP", "adjustedValueFromValue"]
+- !private ["6Former14SelectableFormP", "cell"]
+- !private ["6Former14SelectableFormP", "displayColor"]
+- !private ["6Former14SelectableFormP", "displayDisabledColor"]
+- !private ["6Former14SelectableFormP", "displayTextFromValue"]
+- !private ["6Former14SelectableFormP", "enabled"]
+- !private ["6Former14SelectableFormP", "onValueChanged"]
+- !private ["6Former14SelectableFormP", "rowHeight"]
+- !private ["6Former14SelectableFormP", "titleColor"]
+- !private ["6Former14SelectableFormP", "titleDisabledColor"]
+- !private ["6Former14SelectableFormP", "value"]
+- !private ["6Former14SelectableFormP", "valueChanged"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- ["6Former17SliderFormableRowP", "UILabel"]
+- ["6Former17SliderFormableRowP", "UISlider"]
+- ["6Former17SliderFormableRowP", "formDisplayLabel"]
+- ["6Former17SliderFormableRowP", "formSlider"]
+- ["6Former17SliderFormableRowP", "formTitleLabel"]
+- !private ["6Former17SliderFormableRowP", "selectionStyle"]
+- ["6Former09SliderRowA0C", "Float"]
+- ["6Former09SliderRowA0C", "Former"]
+- !private ["6Former09SliderRowA0C", "SliderRowFormer"]
+- ["6Former09SliderRowA0C", "String"]
+- ["6Former09SliderRowA0C", "T"]
+- ["6Former09SliderRowA0C", "UIColor"]
+- ["6Former09SliderRowA0C", "UISlider"]
+- ["6Former09SliderRowA0C", "Void"]
+- ["6Former09SliderRowA0C", "adjustedValueFromValue"]
+- !private ["6Former09SliderRowA0C", "cell"]
+- ["6Former09SliderRowA0C", "cellInitialized"]
+- ["6Former09SliderRowA0C", "deinit"]
+- !private ["6Former09SliderRowA0C", "displayColor"]
+- ["6Former09SliderRowA0C", "displayDisabledColor"]
+- ["6Former09SliderRowA0C", "displayTextFromValue"]
+- !private ["6Former09SliderRowA0C", "enabled"]
+- ["6Former09SliderRowA0C", "init"]
+- ["6Former09SliderRowA0C", "initialized"]
+- ["6Former09SliderRowA0C", "onValueChanged"]
+- !private ["6Former09SliderRowA0C", "rowHeight"]
+- !private ["6Former09SliderRowA0C", "titleColor"]
+- ["6Former09SliderRowA0C", "titleDisabledColor"]
+- ["6Former09SliderRowA0C", "update"]
+- ["6Former09SliderRowA0C", "value"]
+- !private ["6Former09SliderRowA0C", "valueChanged"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "formDisplayLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "formSlider"]
+- !private ["So29UIAccessibilityIdentificationP", "formTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "isEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So29UIAccessibilityIdentificationP", "value"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "formDisplayLabel"]
+- !private ["So12UIAppearanceP", "formSlider"]
+- !private ["So12UIAppearanceP", "formTitleLabel"]
+- !private ["So12UIAppearanceP", "isEnabled"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So12UIAppearanceP", "value"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "formDisplayLabel"]
+- !private ["So21UIAppearanceContainerP", "formSlider"]
+- !private ["So21UIAppearanceContainerP", "formTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "isEnabled"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "value"]
+- !private ["So7UIColorC", "black"]
+- ["So7UIColorC", "lightGray"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "isEnabled"]
+- !private ["So9UIControlC", "value"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "formDisplayLabel"]
+- !private ["So17UICoordinateSpaceP", "formSlider"]
+- !private ["So17UICoordinateSpaceP", "formTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "isEnabled"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "value"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "formDisplayLabel"]
+- !private ["So13UIDynamicItemP", "formSlider"]
+- !private ["So13UIDynamicItemP", "formTitleLabel"]
+- !private ["So13UIDynamicItemP", "isEnabled"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So13UIDynamicItemP", "value"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "formDisplayLabel"]
+- !private ["So18UIFocusEnvironmentP", "formSlider"]
+- !private ["So18UIFocusEnvironmentP", "formTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "isEnabled"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "value"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "formDisplayLabel"]
+- !private ["So11UIFocusItemP", "formSlider"]
+- !private ["So11UIFocusItemP", "formTitleLabel"]
+- !private ["So11UIFocusItemP", "isEnabled"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So11UIFocusItemP", "value"]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "formDisplayLabel"]
+- !private ["So20UIFocusItemContainerP", "formSlider"]
+- !private ["So20UIFocusItemContainerP", "formTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "isEnabled"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "value"]
+- !private ["So27UIGestureRecognizerDelegateP", "formDisplayLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "formSlider"]
+- !private ["So27UIGestureRecognizerDelegateP", "formTitleLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "formDisplayLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "formSlider"]
+- !private ["So30UIPasteConfigurationSupportingP", "formTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "isEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "value"]
+- !private ["So11UIResponderC", "addTarget"]
+- !private ["So11UIResponderC", "formDisplayLabel"]
+- !private ["So11UIResponderC", "formSlider"]
+- !private ["So11UIResponderC", "formTitleLabel"]
+- !private ["So11UIResponderC", "isEnabled"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So11UIResponderC", "value"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "formDisplayLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "formSlider"]
+- !private ["So30UIResponderStandardEditActionsP", "formTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "isEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "value"]
+- ["So20UIScrollViewDelegateP", "InstantiateType"]
+- !private ["So8UISliderC", "addTarget"]
+- !private ["So8UISliderC", "isEnabled"]
+- !private ["So8UISliderC", "value"]
+- !private ["So15UITableViewCellC", "formDisplayLabel"]
+- !private ["So15UITableViewCellC", "formSlider"]
+- !private ["So15UITableViewCellC", "formTitleLabel"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So21UITableViewDataSourceP", "InstantiateType"]
+- ["So19UITableViewDelegateP", "InstantiateType"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "formDisplayLabel"]
+- !private ["So18UITraitEnvironmentP", "formSlider"]
+- !private ["So18UITraitEnvironmentP", "formTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "isEnabled"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So18UITraitEnvironmentP", "value"]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "formDisplayLabel"]
+- !private ["So23UIUserActivityRestoringP", "formSlider"]
+- !private ["So23UIUserActivityRestoringP", "formTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "isEnabled"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "value"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "formDisplayLabel"]
+- !private ["So6UIViewC", "formSlider"]
+- !private ["So6UIViewC", "formTitleLabel"]
+- !private ["So6UIViewC", "isEnabled"]
+- !private ["So6UIViewC", "selectionStyle"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textColor"]
+- !private ["So6UIViewC", "value"]
+- !private ["6Former13UpdatableFormP", "SliderRowFormer"]
+- ["6Former13UpdatableFormP", ""]
+- !private ["6Former13UpdatableFormP", "adjustedValueFromValue"]
+- !private ["6Former13UpdatableFormP", "cell"]
+- !private ["6Former13UpdatableFormP", "displayColor"]
+- !private ["6Former13UpdatableFormP", "displayDisabledColor"]
+- !private ["6Former13UpdatableFormP", "displayTextFromValue"]
+- !private ["6Former13UpdatableFormP", "enabled"]
+- !private ["6Former13UpdatableFormP", "onValueChanged"]
+- !private ["6Former13UpdatableFormP", "rowHeight"]
+- !private ["6Former13UpdatableFormP", "titleColor"]
+- !private ["6Former13UpdatableFormP", "titleDisabledColor"]
+- !private ["6Former13UpdatableFormP", "value"]
+- !private ["6Former13UpdatableFormP", "valueChanged"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formDisplayLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formSlider"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "formTitleLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "value"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InstantiateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formDisplayLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formSlider"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEnabled"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "lightGray"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "6Former07BaseRowA0C"
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "6Former16ConfigurableFormP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "6Former8FormableP"
+- "6Former11FormableRowP"
+- "6FormerAAC"
+- "SH"
+- !private "6FormerAAC15InstantiateTypeO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- "Sq"
+- !private "Sm"
+- !private "SY"
+- "6Former03RowA0C"
+- "6Former14SelectableFormP"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- "6Former17SliderFormableRowP"
+- "6Former09SliderRowA0C"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So8UISliderC"
+- !private "So15UITableViewCellC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "6Former13UpdatableFormP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/itechplushd1/projects/ios/Former/Former/Former.h"
+- "/Volumes/itechplushd1/projects/ios/Former/Build/Intermediates/Former.build/Debug-iphonesimulator/Former.build/unextended-module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "31619ea4c8740ecab0e6a9111e96bdd3"
